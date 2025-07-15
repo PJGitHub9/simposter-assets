@@ -54,7 +54,7 @@ ABC3
 Ace Entertainment
 Acorn
 Acorn TV, AcornTV
-Ad Vitam Production
+Ad Vitam, Ad Vitam Productions
 Adler Entertainment
 AFI
 Aftermath
@@ -202,7 +202,9 @@ C-Station
 C31
 Campbell Grobman Films
 Canale 5
+Capelight Pictures
 Carcass Studios
+Carlotta Films
 Cartoon Network
 Cartoon Network HD, Cartoon Network_HD
 Cartoon Network Studios
@@ -232,6 +234,7 @@ Cine Nomine
 Cinecolor
 Cinema Bravo
 Cinema Fund, Cinéma Fund
+Cinema Guild
 Cinemaginaire Inc., Cinémaginaire Inc., Cinémaginaire
 Cinematografica Calderon S.A, Cinematográfica Calderón S.A
 Cinemien
@@ -278,12 +281,15 @@ CTV Drama
 CTV Life
 CTV Sci-Fi
 Cult Epics
+Curzon
+Curzon Film World
 Cutare Film
 CW, CW (US)
 CW Television Network
 Daiei Film
 Daniel Wilson Productions
 Dapur Film
+Darkstar Pictures
 Davis Films
 DC
 DC Comics
@@ -359,6 +365,7 @@ Film4 Productions
 Film Base Berlin
 Film Estonia
 Film I Vast, Film I Väst
+FilmIn
 Filmfrance
 FilmNation
 Filmrise
@@ -454,7 +461,8 @@ Indigo
 Indigo Film
 Infinite Studios
 Infinitum Nihil
-Ingenious 
+Ingenious
+Inspired Family Entertainment
 Insurge Pictures
 Investigation Discovery
 Invincible, Invincible Entertainment
@@ -481,6 +489,7 @@ JJ Splice Films
 Join Motion 
 Joycore Entertainment
 Joyn
+JTBC
 Junifilm
 Jurgen Bruning Filmproduktion, Jürgen Brüning Filmproduktion
 JW Productions, JWProductions
@@ -598,6 +607,7 @@ Movistar+
 MTV Entertainment Studios
 Mubi
 Muse Entertainment, Muse Entertainment Enterprises
+Music Box Films
 Mycontent Distribution
 National Film Finance Corporation (NFFC), National Film Finance Corporation
 NBC, NBC (US)
@@ -677,12 +687,14 @@ Pathe!, Pathé!, Pathe, Pathé
 Peacock
 Peccadillo Pictures
 Pearl Street Films
+Perspectives Pictures
 Phantom Four
 Pink Elephant Productions
+Plaion Pictures
 PlayStation Productions
 PlalyStation Tv, PlalyStationTv
 Platinum Dunes
-Plus M Entertainment
+Plus M, Plus M Entertainment
 Polygon pictures
 PolyGram
 PolyGram Pictures
@@ -740,6 +752,7 @@ Roku
 Rooster Teeth
 Rooster Teeth Productions
 Rough House Pictures
+RPS Productions
 RTBF
 RTÉ One, RTE One
 RTÉ Two, RTE Two
@@ -762,6 +775,7 @@ SBS (KR)
 Schweizer Radio und Fernsehen (SRF)
 Science Saru
 Scorpio Film Releasing
+Scraps I
 Screen Australia, Screen_Australia
 Screen Ireland
 Screen Queensland
@@ -774,11 +788,13 @@ Search Party
 Searchlight
 Searchlight Pictures
 Second Gen Pictures
+Second Sight, Second_Sight, Second Sight Films
 Serena Films
 Séries Plus, Series Plus
 Seven Network
 SevenPictures
 Seventh Art Releasing
+Severin Films
 SF
 SF Film
 SF Studios
@@ -794,6 +810,7 @@ Sierra, Sierra Pictures
 Signature, Signature Entertainment, Signature Films
 Six Island Productions
 Sixteen Films
+Skipstone Pictures
 Sky
 Sky Arts
 Sky Atlantic, Sky Atlantic (UK), Sky Atlantic (DE)
@@ -959,6 +976,7 @@ TVNZ 2
 TVNZ+
 TVNZ TV2
 TVS Sydney
+Twilight Time
 Twins Latin Films
 U&alibi
 U&Drama
@@ -976,6 +994,7 @@ Union Generale Cinematographique (UGC), Union Générale Cinématographique (UGC
 United Gay Network
 Universal Animation Studios
 Universal Music Group, UM Group
+Universal Productions France
 Universidad del Cine
 Univision
 USA, USA HD
@@ -984,6 +1003,7 @@ USA Home Video
 USA Network, USA Network hd
 Utopia
 Vega Film
+Vendaval Producciones S.L.
 Vendian Entertainment
 Vertical Entertainment
 Vertigo Productions
@@ -1043,7 +1063,9 @@ Yahoo! View
 YES
 YLE, YLE HD
 YouTube
+YTV
 ZDF
+zdfneo
 Zentropa
 Zentropa Entertainments
 Zentropa International Berlin
