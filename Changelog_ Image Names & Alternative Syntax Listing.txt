@@ -96,7 +96,9 @@ Anton Capital Entertainment (ACE)
 Apaches Entertainment
 APJAC Productions
 Apple Studios
+Arbelos, Arbelos Films
 Archangel Studios
+Artificial Eye
 ARD
 Ariztical
 Ariztical Entertainment
@@ -131,6 +133,7 @@ B2B, Border2Border Entertainment
 BA Productions
 Babe Films
 BAC Films, BBC Film
+Bandai Namco
 Bangor Films, BangorFilms
 Basque Films
 Bathysphere Productions
@@ -173,6 +176,7 @@ Bombay Berlin Film
 Bona Entertainment, Bona Film
 Bondit Media Capital
 BQHL
+Brainstorm Media
 Brandywine Productions
 Breaking Glass Pictures
 Briarcliff Entertainment
@@ -232,6 +236,7 @@ Chris Morgan Productions
 Chubu-Nippon Broadcasting Company
 Cine Nomine
 Cinecolor
+CINELICIOUSPICS
 Cinema Bravo
 Cinema Fund, Cinéma Fund
 Cinema Guild
@@ -249,6 +254,7 @@ CityTV
 CityTV+
 Ciudadano Ciskul
 CJ CGV
+Clockwork Films
 Cloudburst Entertainment
 Cloverworks
 CMC Animation
@@ -325,6 +331,7 @@ Duellmann Filmproduktion
 Dutch FilmWorks, Dutch FilmWorks (DFW), DFW
 E One
 Eagle Films
+Eagle Pictures
 Eagle Rock Film Productions, Eagle Rock Films
 Ecce Films
 Edition Salzgeber
@@ -419,6 +426,7 @@ Globo Filmes
 Globoplay
 GMM25
 GO90
+Golden Sun Films
 Goldwyn Films
 Good Machine
 Good Machine Intrernational
@@ -454,6 +462,7 @@ IFC
 IFC Films
 IMDb TV
 Impact Pictures
+Imprint, Imprint Films
 INCAA
 Independent Entertainment
 Indie Rights Movies
@@ -504,6 +513,7 @@ Kazak Productions
 Kickstart Entertainment
 Kids WB, KidsWB
 Killer Films
+Kimstim
 Kino Lorber
 KISI
 Kismet Entertainment Group
@@ -538,6 +548,7 @@ Les Films Seville, Les Films Séville
 levelFILM
 Levitate Film
 Lidenfilms
+Light Chaser Amination Studios
 Lime Street Entertainment
 Lionsgate
 Lionsgate Films
@@ -554,6 +565,7 @@ Lucasfilm Ltd.
 Lucky Red
 LuckyChap Entertainment
 Luma Pictures
+Lyto Pictures
 M 6 Films, M6 Films, M6Films
 M6
 M6+
@@ -608,6 +620,7 @@ MTV Entertainment Studios
 Mubi
 Muse Entertainment, Muse Entertainment Enterprises
 Music Box Films
+MVP Pictures
 Mycontent Distribution
 National Film Finance Corporation (NFFC), National Film Finance Corporation
 NBC, NBC (US)
@@ -617,6 +630,7 @@ NBC studios
 NBC universal television
 Neal Street Productions
 Neighborhood Film Co.
+Neon TV
 Neshama Entertainment
 Network Ten
 New Leaf Pictures
@@ -730,6 +744,7 @@ Rankin Bass Productions, Rankin_Bass Productions, RankinBass Productions
 RatPac Entertainment, RatPac-Dune Entertainment
 Raven Banner, Raven Banner Entertainment
 RCR Media Group
+Real Fiction Studios
 Red Sea Media
 Red Union Films
 Red Planet Entertainment, Red Planet Pictures
@@ -795,6 +810,7 @@ Seven Network
 SevenPictures
 Seventh Art Releasing
 Severin Films
+Severn Screen
 SF
 SF Film
 SF Studios
@@ -917,7 +933,9 @@ The Donners' Company
 The Fyzz
 The Gotham Group
 The Group Entertainment
+The Horror Collective
 The Icelandic Filmcompany
+The Jokers, The Jokers Films
 The Mark Gordon Company
 The Mirisch Company
 The Mirisch Corporation
@@ -988,6 +1006,7 @@ UGC International
 UGC PH
 UGC YM
 UGC-Fox Distribution
+Umbrella Entertainment
 Umedia
 Uncork'd Entertainment
 Union Generale Cinematographique (UGC), Union Générale Cinématographique (UGC)
@@ -1013,6 +1032,7 @@ Vice Studios
 Videoland
 Vimeo
 Vimeo On Demand
+Vinegar Syndrome
 Virgin Media 
 Visual Works
 Viva Films
@@ -1039,7 +1059,7 @@ WDR Senderkennung
 We Pictures Limited
 WE TV, WE_TV, WEtv
 Weed Road Pictures
-Well Go USA Entertainment
+Well Go USA, Well Go USA Entertainment
 Westdeutscher Rundfunk, Westdeutscher Rundfunk (WDR)
 Western Edge Pictures
 WGN America, WGN_America, WGN-American
@@ -1060,6 +1080,7 @@ Wolfe Video, Wolfe_video
 Wonderfilm Media
 Yahoo! Screen
 Yahoo! View
+Yale Productions
 YES
 YLE, YLE HD
 YouTube
