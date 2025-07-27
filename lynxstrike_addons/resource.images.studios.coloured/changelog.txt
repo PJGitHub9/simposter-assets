@@ -1,3 +1,9 @@
+v1.0.0005 (2025-07-31)
+- Logos requested by @Edworld
+- Logos requested by @GBUK83
+- Added: HBO España, Neon TV, Binge, WeTV (Cn), iWant
+If you'd like your logos added, request them at https://forum.kodi.tv/showthread.php?tid=368342 (Resource Images Studios Coloured thread)
+
 v1.0.0004 (2025-07-15)
 - Added: New .xbt added
 - Logos requested by @Edworld

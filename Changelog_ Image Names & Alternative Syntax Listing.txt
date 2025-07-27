@@ -157,6 +157,7 @@ Big Beach
 Big Screen Productions
 Big Talk Studios
 Bigfoot Entertainment, Bigfoot Studios
+Binge
 Black Label Media
 Black Mandala, Black Mandala Films
 Black Swan Tales
@@ -440,6 +441,7 @@ Hallmark
 Hallmark Channel, Hallmark_Channel
 Hallmark Media
 HBO
+HBO España, HBO Espana
 HBO Asia
 HBO Max, HBO_Max, HBOMax
 Head Gear Films
@@ -1057,7 +1059,8 @@ WB Kids
 WDR
 WDR Senderkennung
 We Pictures Limited
-WE TV, WE_TV, WEtv
+We TV, WE_TV, WEtv (US)
+WeTV (Cn)
 Weed Road Pictures
 Well Go USA, Well Go USA Entertainment
 Westdeutscher Rundfunk, Westdeutscher Rundfunk (WDR)
