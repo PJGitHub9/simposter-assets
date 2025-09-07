@@ -580,7 +580,10 @@ Magenta TV, MagentaTV
 Maipo Film
 Mammoth Screen
 Mandarin Cinema, Mandarin Cinéma
-Mandarin et Compagnie, Mandarin Films Distribution Co., Mandarin Films, Mandarin Motion Pictures Limited, Mandarin Production
+Mandarin et Compagnie
+Mandarin Films, Mandarin Films Distribution Co.
+Mandarin Motion Pictures Limited
+Mandarin Production
 Mannequin 
 MAPPA
 Marro Films
@@ -1088,9 +1091,10 @@ Yale Productions
 YES
 YLE, YLE HD
 YouTube
+YouTube Premium
 YTV
 ZDF
-zdfneo
+ZDFneo
 Zentropa
 Zentropa Entertainments
 Zentropa International Berlin
