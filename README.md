@@ -8,7 +8,7 @@
   <img width="80%" src="https://github.com/lynxstrike/lynxstrike.repo/blob/master/repo/repository.lynxstrike/fanart.jpg" alt="Studio Icons Fanart">
 </p>
 
-🎬 <p align="center">Color Studio Images for KODI, maintained by lynxstrike for the KODI community.</strong></p>
+<p align="center">🎬 Color Studio Images for KODI, maintained by lynxstrike for the KODI community.</strong></p>
 
 <p align="center"><strong>Bring your Kodi library to life with a full suite of vibrant studio icons, curated and maintained for maximum compatibility.</p>
 
