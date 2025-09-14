@@ -13,7 +13,12 @@ Instantly identify missing studio logos in your collection
 One-click Google Images search for missing logos (ideal for contributing to lynxstrike’s Studio Logos Coloured add-on)
 Export results to PDF
 Export results to TXT (for easy submission to lynxstrike's Studio Logos Coloured add-on)
- 
+Export to Hastebin
+Quickly generate a Hastebin link and paste it to submit your logo request to the Studio Logos Coloured add-on by lynxstrike.
+Submit Missing Logos
+Found and downloaded your missing logos? Just zip them up and submit with a few clicks. Paste the generated Gofile link to request a fast update via lynxstrike's add-on.
+Choose Your Browser
+Select your preferred browser to perform a targeted logo web search. 
 🙏 Credits
 Created by @kittmaster and generously donated to the Kodi community.
  
