@@ -74,6 +74,7 @@ Allied Artists Pictures
 Almeida Theatre
 Alter Ego Pictures
 Amazon Freevee
+Amazon MGM Studios
 Amazon Prime Video
 AMBI Group
 AMC
@@ -99,10 +100,12 @@ Apple Studios
 Arbelos, Arbelos Films
 Archangel Studios
 Artificial Eye
+Archer Gray
 ARD
 Ariztical
 Ariztical Entertainment
 Armory Films
+Arnold Kopelson Productions
 Array Filmworks
 Arrow Academy
 Arrow Video
@@ -114,6 +117,7 @@ Artébis Entertainment, Artebis Entertainment
 Artémis Productions, Artemis Productions
 Artphotos
 Artsploitation Films
+ARY Digital
 Aspect Ratio
 Aspect Ratio Films
 Asta Film
@@ -169,6 +173,7 @@ Blue Finch Film, Blue Finch Films, Blue Finch Film Releasing
 Blue Fox Entertainment
 Blue Seraph Productions
 Blueskin Films
+Bluegrass Films
 Blumhouse Productions
 Blumhouse Television
 BNNVARA
@@ -205,6 +210,7 @@ C More Sport
 C More Total
 C-Station
 C31
+Calimari Productions
 Campbell Grobman Films
 Canale 5
 Capelight Pictures
@@ -216,6 +222,7 @@ Cartoon Network Studios
 Causeway Films
 CBC (Ca)
 CBC Gem
+CBC Television
 CBS, CBS (US)
 CBS Entertainment Production
 CBS Films
@@ -232,6 +239,7 @@ Channel 83
 Channel Nine
 Channel Ten
 Charles Chaplin Productions
+Chicago Pacific Entertainment
 Chiller
 China Film, China Film Group Corporation, China Film Group
 Chris Morgan Productions
@@ -247,10 +255,12 @@ Cinematografica Calderon S.A, Cinematográfica Calderón S.A
 Cinemien
 Cinepata, Cinépata
 Cinereach
+Cinergi Pictures
 Cineridge Entertainment
 Cinestate
 Cineuropa
 Cineverse
+Cirque Du Soleil Images
 CITV
 CityTV
 CityTV+
@@ -277,6 +287,7 @@ Concorde Video
 Constantin Film
 Constantin Television
 Copperheart Entertainment
+Cor Cordium Productions
 Cornerstone Films
 Covert Media
 Crackle
@@ -336,12 +347,14 @@ Eagle Films
 Eagle Pictures
 Eagle Rock Film Productions, Eagle Rock Films
 Ecce Films
+Eddie Murphy Productions
 Edition Salzgeber
 Een, Één
 EFO Films
 El Dorado Films, Eldorado Films
 El Dorado Pictures
 El Otro Film
+Electromagnetic Productions
 Elevation Pictures
 ELEVEN ARTS Studios
 Elisa Viihde, Elisa_Viihde
@@ -374,6 +387,7 @@ Film4 Productions
 Film Base Berlin
 Film Estonia
 Film I Vast, Film I Väst
+Film Mode Entertainment
 FilmIn
 Filmfrance
 FilmNation
@@ -420,7 +434,9 @@ FX Productions
 GagaOOLala
 Galafilm Productions
 Galeria Alaska Productions
+Ghost Corps
 Gidden Media
+Gladden Entertainment
 Glanzrock Productions
 Global
 Global TV, Global-TV, Global Television Network
@@ -440,7 +456,10 @@ Guest House Films
 Gulfstream Pictures
 Hallmark
 Hallmark Channel, Hallmark_Channel
+Hallmark Family
 Hallmark Media
+Hallmark Movie Mysteries
+Hallmark Studios
 HBO
 HBO España, HBO Espana
 HBO Asia
@@ -457,6 +476,10 @@ HK Films
 HOT
 HT Film
 Hughes Entertainment
+HUM
+HUM Europe
+HUM Network
+HUM TV
 Hype Film
 Hyperobject Industries
 IDN Pictures
@@ -512,6 +535,7 @@ Kan
 Kan 11
 Kanal 5 (DK)
 KanZaman, KanZaman Films, KanZaman Productions
+KatzSmith Productions
 Kazak Productions
 Kickstart Entertainment
 Kids WB, KidsWB
@@ -520,6 +544,7 @@ Kimstim
 Kino Lorber
 KISI
 Kismet Entertainment Group
+Kopelson Entertainment
 Knudsen Pictures
 KSG Films
 Kurhaus Production
@@ -534,9 +559,11 @@ Las Estrellas
 laSexta
 Laura Ziskin Productions
 Lawrence Bender Productions
+Laurence Mark Productions
 Lay Duce
 Lyrical, Lyrical Media
 LD Entertainment
+Lee Mendelson Film Productions
 Legacy Pictures
 Legendary East
 Legendary Entertainment
@@ -552,6 +579,7 @@ levelFILM
 Levitate Film
 Lidenfilms
 Light Chaser Amination Studios
+Lighthouse Management + Media
 Lime Street Entertainment
 Lionsgate
 Lionsgate Films
@@ -562,7 +590,9 @@ Loap
 Lorry
 Los Angeles Media Fund
 Los Griegos Films
+Los Hooligans Productions
 Lotte Entertainment
+Lotus Pictures
 Loupe Films
 Lucasfilm Ltd.
 Lucky Red
@@ -606,6 +636,8 @@ Mels Cite du Cinema
 Mer Film
 Merchant Ivory Productions
 MGM+
+MGM Television
+Mid Atlantic Films
 Mille Et Une Productions, Mille Et Une
 Millennium Media
 Mischief Maker Studios
@@ -669,6 +701,7 @@ Northern Ireland Screen
 NQV Media
 Odra Film
 Olive Films
+Ombra Films
 One Two Films
 Open Palm Films
 Orange Studios
@@ -680,7 +713,8 @@ Osterreichischer Rundfunk (ORF), Österreichischer Rundfunk (ORF)
 Out TV, OUTtv
 Outplay Films
 Overseas FilmGroup
-Pacific Western Productions
+Pacific Western, Pacific Western Productions
+Palace Pictures
 Palari Films
 Palomar
 Pambili Media
@@ -695,6 +729,8 @@ Paramount Network
 Paramount Television
 Paramount Television Studios
 Paramount+
+Paramount+ Showtime
+Paramount+ With Showtime
 Pariah Films
 Parkes+MacDonald Productions
 Particular Crowd
@@ -709,6 +745,7 @@ Peccadillo Pictures
 Pearl Street Films
 Perspectives Pictures
 Phantom Four
+Pinstripe Productions
 Pink Elephant Productions
 Plaion Pictures
 PlayStation Productions
@@ -725,11 +762,14 @@ Premier (Russia)
 Prime Video
 Propaganda Films
 Proton Cinema
+PTV, PTV Pakistan Television
+PTV Networks
 Pukka Films
 Quibi
 Quijote Films
 Quiver Distribution
 RabbitBandini Productions
+RadicalMedia
 RAI
 RAI 1, RAI1
 RAI 2, RAI2
@@ -741,12 +781,14 @@ RAI Gulp
 RAI Movie
 Raimi Productions
 Rain Dogs Production
+Raindog Films
 Raindance Entertainment
 Rakuten TV
 Random Media
 Rapid Heart Pictures
 Rankin Bass,Rankin_Bass, RankinBass
 Rankin Bass Productions, Rankin_Bass Productions, RankinBass Productions
+Rastar Productions
 RatPac Entertainment, RatPac-Dune Entertainment
 Raven Banner, Raven Banner Entertainment
 RCR Media Group
@@ -755,6 +797,7 @@ Red Sea Media
 Red Union Films
 Red Planet Entertainment, Red Planet Pictures
 Redbox Entertainment
+Reel FX Creative Studios
 ReelzChannel
 Regent Entertainment
 Regent Releasing
@@ -832,6 +875,7 @@ Sierra, Sierra Pictures
 Signature, Signature Entertainment, Signature Films
 Six Island Productions
 Sixteen Films
+SK Global Entertainment
 Skipstone Pictures
 Sky
 Sky Arts
@@ -878,6 +922,7 @@ Star Thrower Entertainment
 Star TV, StarTV
 Star-Film
 Stardust Pictures
+Steamroller Productions
 Sterling Entertainment
 Sterling Entertainment Group
 Storm Post Production
@@ -911,6 +956,7 @@ Svensk Filmindustri, Svensk Filmindustri (SF)
 STV
 STV Productions
 STV Studios
+Sycamore Pictures
 Syfy
 Syfy Universal
 Syndicated, Syndicated Productions, Syndication
@@ -932,6 +978,7 @@ Ten Thousand Hearts
 TF1 Films Production
 Thanhouser Film Corporation
 That's Wonderful Productions
+The Bubble Factory
 The CW, The CW (US), 
 The CW HD, The CW_HD
 The De Laurentiis Company
@@ -951,7 +998,9 @@ The Roku Channel, The_Roku_Channel
 The Stone Quarry
 The WB
 The WB Television 
+The Zanuck
 ThinkFilm
+Third Coast Content
 Third Window Films
 Three (New Zealand)
 Throwing Star Films
@@ -961,6 +1010,7 @@ Tiberius Film
 Tilia Entertainment
 TIMvision
 TinRes Entertainment
+Tiny Cinema
 TLA Releasing
 TLA Video
 TNT, TNT (US)
@@ -970,6 +1020,7 @@ Toho Company Ltd.
 Tokyo Movie Shinsha
 Toledo Productions
 Tom DeSanto Don Murphy Production
+Tombstone
 Torridon Films
 TPS Compandy
 Transcinema
@@ -1016,6 +1067,7 @@ Umbrella Entertainment
 Umedia
 Uncork'd Entertainment
 Union Generale Cinematographique (UGC), Union Générale Cinématographique (UGC)
+United Feature Syndicate (UFS)
 United Gay Network
 Universal Animation Studios
 Universal Music Group, UM Group
@@ -1030,7 +1082,8 @@ Utopia
 Vega Film
 Vendaval Producciones S.L.
 Vendian Entertainment
-Vertical Entertainment
+Veritas Entertainment Group
+Vertical, Vertical Entertainment
 Vertigo Productions
 Viaplay
 Vice
@@ -1076,6 +1129,7 @@ Wild Bunch, Wild Bunch inc.
 Wild Bunch Benelux
 Wild Bunch Distribution
 Wild Side, Wild Side Films
+Wild West Picture Show Productions
 WilDart Film
 Wín's Entertainment Ltd
 WishArt, WishArt Films
