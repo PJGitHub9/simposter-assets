@@ -1,3 +1,8 @@
+v1.0.0008 (2025-09-27)
+-Logos requested by  @shaktoo
+-Logos requested by @kittmaster, part 1
+-Paramount+ With Showtime
+
 v1.0.0007 (2025-09-06)
 - Restored compatibility with the Android platform.
 
