@@ -24,6 +24,7 @@
 101 Films
 101 Studios
 777 Films Corporation
+900 Films
 1111 MediaWorks
 A&E
 A&E Home Vvideo
@@ -60,6 +61,7 @@ AFI
 Aftermath
 Aftermath Entertainment
 AFTRS
+AG Verleih
 Agamemnon Films
 Agat Films & Cie
 AGBO
@@ -85,6 +87,7 @@ AMC+
 American Broadcasting Company, American Broadcasting Company (ABC)
 american broadcasting company (abc) sports
 american movie classics (amc)
+American Playhouse
 AMG Entertainment
 Amicus Productions
 Amusement Park Films
@@ -96,6 +99,7 @@ Antena 3 Films
 Anton Capital Entertainment (ACE)
 Apaches Entertainment
 APJAC Productions
+Apple Original Films
 Apple Studios
 Arbelos, Arbelos Films
 Archangel Studios
@@ -122,6 +126,7 @@ Aspect Ratio
 Aspect Ratio Films
 Asta Film
 Astillero Films
+Astute Films
 Asymmetrical Productions
 Atmosphere Entertainment MM
 Atomic Monster
@@ -138,6 +143,7 @@ BA Productions
 Babe Films
 BAC Films, BBC Film
 Bandai Namco
+Banger Films
 Bangor Films, BangorFilms
 Basque Films
 Bathysphere Productions
@@ -171,18 +177,21 @@ Blinding Edge Pictures
 Bleeker Street
 Blue Finch Film, Blue Finch Films, Blue Finch Film Releasing
 Blue Fox Entertainment
+Blue Ribbon Content
 Blue Seraph Productions
 Blueskin Films
 Bluegrass Films
 Blumhouse Productions
 Blumhouse Television
 BNNVARA
+BNR Films
 Boekamp & Kriegsheim
 Bombay Berlin Film
 Bona Entertainment, Bona Film
 Bondit Media Capital
 BQHL
 Brainstorm Media
+Brad Grey Pictures
 Brandywine Productions
 Breaking Glass Pictures
 Briarcliff Entertainment
@@ -191,6 +200,8 @@ BritBox
 British International Pictures, British International Pictures (BIP)
 British Lion Films
 British Sky Broadcasting, British Sky Broadcasting (BSkyB)
+Broadway Video
+Broken Road Productions
 Bron Studios
 Bronte Pictures
 Brown Boy Productions
@@ -257,6 +268,7 @@ Cinepata, Cinépata
 Cinereach
 Cinergi Pictures
 Cineridge Entertainment
+Cinesite Animation
 Cinestate
 Cineuropa
 Cineverse
@@ -266,6 +278,7 @@ CityTV
 CityTV+
 Ciudadano Ciskul
 CJ CGV
+Clerkenwell Films
 Clockwork Films
 Cloudburst Entertainment
 Cloverworks
@@ -284,6 +297,7 @@ Concorde
 Concorde Films
 Concorde Pictures
 Concorde Video
+Condé Nast Entertainment
 Constantin Film
 Constantin Television
 Copperheart Entertainment
@@ -322,6 +336,8 @@ Dee Company
 Deep End Pictures
 DEG
 Delux Productions
+Demeusy Pictures
+Di Novi Pictures
 Diamond Film Productions
 Digital Interference Productions
 Dino De Laurentiis Company
@@ -332,6 +348,7 @@ Disney+
 Disney Television Animation
 Dolphin Entertainment
 Don Carmody Productions
+Don Simpson
 Don Simpson-Jerry Bruckhemer Films
 Double Dare You Productions
 Double Dutch International
@@ -341,6 +358,7 @@ Dreamworks Animation SKG
 Dreamworks Animation
 Dreamworks Pictures
 Duellmann Filmproduktion
+Dune Entertainment III
 Dutch FilmWorks, Dutch FilmWorks (DFW), DFW
 E One
 Eagle Films
@@ -348,6 +366,7 @@ Eagle Pictures
 Eagle Rock Film Productions, Eagle Rock Films
 Ecce Films
 Eddie Murphy Productions
+Edge City Productions
 Edition Salzgeber
 Een, Één
 EFO Films
@@ -359,6 +378,7 @@ Elevation Pictures
 ELEVEN ARTS Studios
 Elisa Viihde, Elisa_Viihde
 Embankment
+Enderby Entertainment
 Endurance Media
 Enigma Film
 Enlight Pictures
@@ -378,6 +398,7 @@ Fardmars Film, Färdmars Film
 Fathom Events
 Fearless Network
 Feigco Entertainment
+Fenix Entertainment
 Fida Cinematografica
 Fidelite Productions, Fidélité Productions
 Fifht Season
@@ -397,6 +418,7 @@ First Run Features
 Firststep, Firststep Production
 Flare Film
 Flynn Picture Company
+Focine
 Fonds Eurimages du Conseil de l'Europe
 Foresight Features
 Fortissimo Films
@@ -442,8 +464,10 @@ Global
 Global TV, Global-TV, Global Television Network
 Globo Filmes
 Globoplay
+GM Filmms
 GMM25
 GO90
+Golden Mean
 Golden Sun Films
 Goldwyn Films
 Good Machine
@@ -451,9 +475,12 @@ Good Machine Intrernational
 Googly Films
 Goon Films
 Gravitas Ventures
+Grive Productions
 Groelandia Film
+Ground Control Entertainment
 Guest House Films
 Gulfstream Pictures
+H Films
 Hallmark
 Hallmark Channel, Hallmark_Channel
 Hallmark Family
@@ -487,7 +514,10 @@ Iervolino Entertainment
 IFC
 IFC Films
 IMDb TV
+Illumination,  Illumination Entertainment
 Impact Pictures
+IMCINE
+Imperative Entertainment
 Imprint, Imprint Films
 INCAA
 Independent Entertainment
@@ -498,6 +528,7 @@ Infinite Studios
 Infinitum Nihil
 Ingenious
 Inspired Family Entertainment
+Instituto Mexicano De Cinematografía,  Instituto Mexicano De Cinematografia
 Insurge Pictures
 Investigation Discovery
 Invincible, Invincible Entertainment
@@ -517,6 +548,7 @@ ITV Encore
 ITVX
 Jacobs Holding, Jacobs Holdings
 Janus Films
+Jensen Farley Pictures
 Jerico Films
 Jerry Weintraub Productions
 Jerkschool Productions
@@ -537,11 +569,15 @@ Kanal 5 (DK)
 KanZaman, KanZaman Films, KanZaman Productions
 KatzSmith Productions
 Kazak Productions
+KBS 2
+Key Pix Productions
+Keystone Family Pictures
 Kickstart Entertainment
 Kids WB, KidsWB
 Killer Films
 Kimstim
 Kino Lorber
+Kirlian Pictures
 KISI
 Kismet Entertainment Group
 Kopelson Entertainment
@@ -563,6 +599,7 @@ Laurence Mark Productions
 Lay Duce
 Lyrical, Lyrical Media
 LD Entertainment
+Le Studio Canal+
 Lee Mendelson Film Productions
 Legacy Pictures
 Legendary East
@@ -595,6 +632,7 @@ Lotte Entertainment
 Lotus Pictures
 Loupe Films
 Lucasfilm Ltd.
+Lucille Ball Productions
 Lucky Red
 LuckyChap Entertainment
 Luma Pictures
@@ -617,6 +655,7 @@ Mandarin Production
 Mannequin 
 MAPPA
 Marro Films
+Mars Production
 Marv
 Marvel, Marvel Studios
 Marvel Animation, Marvel Studios Animation
@@ -637,7 +676,10 @@ Mer Film
 Merchant Ivory Productions
 MGM+
 MGM Television
+Microsoft Movies & TV
 Mid Atlantic Films
+Mikros Image
+Mil Nubes-Cine
 Mille Et Une Productions, Mille Et Une
 Millennium Media
 Mischief Maker Studios
@@ -671,6 +713,7 @@ Neighborhood Film Co.
 Neon TV
 Neshama Entertainment
 Network Ten
+New Century Entertainment Corporation
 New Leaf Pictures
 New Real Films
 New Regency Pictures
@@ -698,14 +741,16 @@ Nordisk Film Production AS
 Nord-Ouest Films
 North Hollywood Films
 Northern Ireland Screen
+Northern Lights Films
 NQV Media
+OCS,  Orange Cinéma Séries (OCS), Orange Cinrma Series (OCS)
 Odra Film
 Olive Films
 Ombra Films
 One Two Films
 Open Palm Films
 Orange Studios
-Orbrock Filmproduktion
+Orbrock Film, Orbrock Filmproduktion
 Orbrock
 ORF 1
 Orion Classics
@@ -748,6 +793,7 @@ Phantom Four
 Pinstripe Productions
 Pink Elephant Productions
 Plaion Pictures
+Planet Productions
 PlayStation Productions
 PlalyStation Tv, PlalyStationTv
 Platinum Dunes
@@ -760,11 +806,13 @@ Portobello
 Portobello Productions
 Premier (Russia)
 Prime Video
+Pro-Fun Media
 Propaganda Films
 Proton Cinema
 PTV, PTV Pakistan Television
 PTV Networks
 Pukka Films
+Pulse Films
 Quibi
 Quijote Films
 Quiver Distribution
@@ -809,9 +857,11 @@ Rezo Films
 Riff Raff, Riff Raff Entertainment
 Riot Games
 River Road, River Road Entertainment, River Road Productions
+RLJ Entertainment
 RLJE Entertainment
 RLJE Films
 Robert Simonds Productions
+Robert Stigwood Organization
 Roku
 Rooster Teeth
 Rooster Teeth Productions
@@ -853,6 +903,8 @@ Searchlight
 Searchlight Pictures
 Second Gen Pictures
 Second Sight, Second_Sight, Second Sight Films
+Secret Hideout
+Sepia Films
 Serena Films
 Séries Plus, Series Plus
 Seven Network
@@ -893,7 +945,7 @@ Sky One Productions
 Sky Showcase
 Sky Witness
 Smithsonian Channel
-Smoke House Pictures
+Smoke House Pictures, Smokehouse Pictures
 Societe nouvelle de cinematographie (SNC), Société nouvelle de cinématographie (SNC)
 Solution Entertainment Group
 Sony Crackle
@@ -906,6 +958,7 @@ Sparkle Roll Media
 SPEAK Productions, SPEAKProductions
 Spectrum
 Speedie Distribution
+Spelling Films
 Spier Films
 Spike
 Spike Productions
@@ -940,6 +993,7 @@ STX Entertainment
 STX Films, STXFilms
 Subotica
 Subzero Film, Subzero Film Entertainment
+Such Much Films
 Sulaco Film
 Sulaco Film GmbH
 Summit
@@ -986,6 +1040,7 @@ The Donners' Company
 The Fyzz
 The Gotham Group
 The Group Entertainment
+The Halcyon Company
 The Horror Collective
 The Icelandic Filmcompany
 The Jokers, The Jokers Films
@@ -993,6 +1048,7 @@ The Mark Gordon Company
 The Mirisch Company
 The Mirisch Corporation
 The Mirisch Production Company
+The Open Reel
 The Rank Organisation
 The Roku Channel, The_Roku_Channel
 The Stone Quarry
@@ -1078,6 +1134,7 @@ USA, USA HD
 USA Films
 USA Home Video
 USA Network, USA Network hd
+Utah Film Studios
 Utopia
 Vega Film
 Vendaval Producciones S.L.
@@ -1106,6 +1163,7 @@ Waltzing Penguin Productions
 Wanda Media
 Wanda Pictures
 Wapikoni
+Warner Animation Group
 Warner TV
 Warner TV Serie
 Warp Films
@@ -1124,6 +1182,7 @@ Westdeutscher Rundfunk, Westdeutscher Rundfunk (WDR)
 Western Edge Pictures
 WGN America, WGN_America, WGN-American
 Wheelhouse Entertainment
+White Horse Pictures
 Why Not Productions
 Wild Bunch, Wild Bunch inc.
 Wild Bunch Benelux
@@ -1138,7 +1197,10 @@ Wolfe
 Wolfe Films
 Wolfe Releasing
 Wolfe Video, Wolfe_video
+Wolper Pictures
 Wonderfilm Media
+World Cinema Fund
+Xbox Video
 Yahoo! Screen
 Yahoo! View
 Yale Productions
