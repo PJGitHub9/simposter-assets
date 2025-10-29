@@ -23,4 +23,5 @@ Select your preferred browser to perform a targeted logo web search.
 Created by @kittmaster and generously donated to the Kodi community.
  
 📬 Contact & Support
-For questions, bug reports, or suggestions, please open an issue on GitHub.
+For bug reports, please open an issue on GitHub.
+Fro questions or suggestions, please open a discussion on GitHub.
