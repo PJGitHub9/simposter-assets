@@ -32,7 +32,7 @@
    **`https://lynxstrike.github.io/lynxstrike.repo/`**  
    → Click **Done**
 
-2. ⚠️ **The URL is _caseSensitive_ — not case-insensitive!**  
+2. ⚠️ **The URL is _caseSensitive_**  
    - You must type it exactly as shown: `lynxstrike.repo`  
    - If you type any capital letters (e.g., `LynxStrike`), **KODI will not detect the repo**
 
