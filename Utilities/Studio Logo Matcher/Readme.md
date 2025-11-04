@@ -5,7 +5,7 @@ Studio Logo Matcher is a standalone utility designed for media center enthusiast
 A detailed help section is available within the utility under the Help menu.
 
 📦 Installation
-Studio Logo Matcher is a portable utility—just download from GitHub "Releases" and run. No installation required.
+Studio Logo Matcher is a portable utility—just download from GitHub and run. No installation required.
 
 🎨 Features
 Instantly identify missing studio logos in your collection

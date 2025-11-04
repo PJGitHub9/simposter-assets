@@ -29,7 +29,7 @@ This PySide6-powered desktop app offers genre swapping, selective tag removal, b
 - Settings saved automatically (recent folders, layout, etc.)
 
 📦 Installation
-NFO Cleaner is a portable utility—just download from GitHub "Releases" and run. No installation required.
+NFO Cleaner is a portable utility—just download from GitHub and run. No installation required.
 
 🙏 Credits
 - This add-on would not exist without the work, teachings, and patience of kittmaster.
