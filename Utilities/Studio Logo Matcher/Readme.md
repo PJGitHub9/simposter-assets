@@ -5,6 +5,7 @@ Studio Logo Matcher is a standalone utility designed for media center enthusiast
 A detailed help section is available within the utility under the Help menu.
 
 📦 Installation
+
 Studio Logo Matcher is a portable utility—just download from GitHub and run. No installation required.
 
 🎨 Features
@@ -20,8 +21,10 @@ Choose Your Browser
 Select your preferred browser to perform a targeted logo web search.
 
 🙏 Credits
+
 Created by @kittmaster and generously donated to the Kodi community.
  
 📬 Contact & Support
+
 For bug reports, please open an issue on GitHub.
 Fro questions or suggestions, please open a discussion on GitHub.
