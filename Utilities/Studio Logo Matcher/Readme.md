@@ -17,7 +17,8 @@ Quickly generate a Hastebin link and paste it to submit your logo request to the
 Submit Missing Logos
 Found and downloaded your missing logos? Just zip them up and submit with a few clicks. Paste the generated Gofile link to request a fast update via lynxstrike's add-on.
 Choose Your Browser
-Select your preferred browser to perform a targeted logo web search. 
+Select your preferred browser to perform a targeted logo web search.
+
 🙏 Credits
 Created by @kittmaster and generously donated to the Kodi community.
  

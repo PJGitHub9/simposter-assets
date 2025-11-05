@@ -32,7 +32,7 @@ This PySide6-powered desktop app offers genre swapping, selective tag removal, b
 NFO Cleaner is a portable utility—just download from GitHub and run. No installation required.
 
 🙏 Credits
-- This add-on would not exist without the work, teachings, and patience of kittmaster.
+- This app would not exist without the work, teachings, and patience of kittmaster.
 
 📚 Further Information
 - For more details and community discussion, visit the official KODI forum thread:
