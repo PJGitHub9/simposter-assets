@@ -72,6 +72,7 @@ AGC Studios
 Agência Nacional do Cinema (ANCINE), Agencia Nacional do Cinema (ANCINE)
 AI-Film
 AIC Studios
+Alamode Film
 Alfa Matrix
 Alfama Films
 Alfred Hitchcock Productions, alfred j. hitchcock productions
@@ -316,12 +317,14 @@ Concorde Video
 Condé Nast Entertainment
 Constantin Film
 Constantin Television
+Contrast Film
 Copperheart Entertainment
 Cor Cordium Productions
 Cornerstone Films
 Covert Media
 Crackle
 Crave
+Criterion, Criterion Collection, The Criterion Collection
 Crunchyroll
 CTM Films
 CTV
@@ -420,6 +423,8 @@ Feigco Entertainment
 Fenix Entertainment
 Fezziwig, Fezziwig Studios
 Fida Cinematografica
+Fidélité
+Fidélité Films
 Fidelite Productions, Fidélité Productions
 Fierce Entertainment
 Fifht Season
@@ -461,6 +466,7 @@ France 4
 France 5
 France O, France Ô
 France.tv
+Franchise Pictures
 Freckle Films
 Freeform
 Freevee
@@ -637,6 +643,7 @@ Legacy Pictures
 Legendary East
 Legendary Entertainment
 Legendary Television
+Leonine Studios
 Lerche
 Les Films de la Boetie, Les Films de la Boétie
 Les Films de Pierre
@@ -832,6 +839,7 @@ Peccadillo Pictures
 Pearl Street Films
 Perspectives Pictures
 Phantom Four
+Picturestart
 Pinstripe Productions
 Pink Elephant Productions
 Plaion Pictures
