@@ -46,6 +46,7 @@ ABC Kids
 ABC ME
 ABC Me2
 ABC Me3
+ABC News, ABC News Studios
 ABC News 24
 ABC Pictures
 ABC Pictures International
@@ -127,6 +128,7 @@ ARTE France Cinéma, ARTE France Cinema
 ARTE GEIE
 Artébis Entertainment, Artebis Entertainment
 Artémis Productions, Artemis Productions
+Artists Equity
 Artphotos
 Artsploitation Films
 ARY Digital
@@ -324,6 +326,7 @@ Cornerstone Films
 Covert Media
 Crackle
 Crave
+Cre Film
 Criterion, Criterion Collection, The Criterion Collection
 Crunchyroll
 CTM Films
@@ -338,6 +341,7 @@ Curzon Film World
 Cutare Film
 CW, CW (US)
 CW Television Network
+Crystal Lake Entertainment
 Daiei Film
 Daniel Wilson Productions
 Dapur Film
@@ -350,12 +354,14 @@ DC Films
 DC Studios
 DC Universe, DCUniverse
 De Laurentiis Entertainment Group (DEG)
+Debra Hill Productions
 Decla-Film-Gesellschaft Holz & Co.
 Dee Company
 Deep End Pictures
 DEG
 Delux Productions
 Demeusy Pictures
+Den of Thieves
 Di Novi Pictures
 Diamond Film Productions
 Digital Interference Productions
@@ -369,6 +375,7 @@ Dolphin Entertainment
 Don Carmody Productions
 Don Simpson
 Don Simpson-Jerry Bruckhemer Films
+Dorothy St Pictures
 Double Dare You Productions
 Double Dutch International
 Double Feature Films
@@ -440,6 +447,7 @@ FilmIn
 Filmfrance
 FilmNation
 Filmrise
+Filmplan International
 First Generation Films
 First Run Features
 Firststep, Firststep Production
@@ -548,6 +556,7 @@ IFC
 IFC Films
 IMDb TV
 Illumination,  Illumination Entertainment
+Imagicomm Entertainment
 Impact Pictures
 IMCINE
 Imperative Entertainment
@@ -569,6 +578,7 @@ Invincible Pictures Corp.
 IQIYI
 Iris
 Iris Indie International
+Irwin Entertainment
 Israeli Film Fund
 ITN Distribution
 ITV
@@ -706,6 +716,7 @@ Maven Screen Media
 Max
 Max Pictures
 Maxdome
+Maximum Effort
 MBC, MBC (SK)
 Mbur Indie Film Distribution
 MD Animation
@@ -785,6 +796,7 @@ Noovo
 Nordisk Film
 Nordisk Film Production AS
 Nord-Ouest Films
+North Hill Productions
 North Hollywood Films
 Northern Ireland Screen
 Northern Lights Films
@@ -855,6 +867,7 @@ Pony Canyon
 Portobello
 Portobello Productions
 Premier (Russia)
+Price Entertainment
 Prime Video
 Pro-Fun Media
 Propaganda Films
@@ -1117,6 +1130,7 @@ The Mirisch Production Company
 The Open Reel
 The Rank Organisation
 The Roku Channel, The_Roku_Channel
+The Safran Company
 The Stone Quarry
 The WB
 The WB Television 
@@ -1145,6 +1159,7 @@ Tom DeSanto Don Murphy Production
 Tombstone
 Tornasol Films
 Torridon Films
+Total Recall
 TPS Compandy
 Transcinema
 Traverse Media
