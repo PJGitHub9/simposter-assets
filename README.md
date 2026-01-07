@@ -8,9 +8,10 @@
   <img width="80%" src="https://github.com/lynxstrike/lynxstrike.repo/blob/master/repo/repository.lynxstrike/fanart.jpg" alt="Studio Icons Fanart">
 </p>
 
-<p align="center"><strong>Color Studio Images for KODI, maintained by lynxstrike for the KODI community.</strong></p>
+<p align="center"><strong>Color Studio Images.</strong></p>
 
-<p align="center"><strong>Bring your Kodi library to life with a full suite of vibrant studio icons, curated and maintained for maximum compatibility.</strong></p>
+<p align="center"><strong>Bring your Kodi library to life with Color Studio Icons – Coloured & Modded, a vibrant image pack. This addon delivers a full suite of studio logos in bold, uniform designs, ensuring your media collection looks sharp, consistent, and up-to-date across all versions of Kodi.
+</strong></p>
 
 ---
 
