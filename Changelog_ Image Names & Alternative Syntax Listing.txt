@@ -25,6 +25,8 @@
 87Eleven
 101 Films
 101 Studios
+199 Productions
+308 Enterprises
 777 Films Corporation
 900 Films
 1111 MediaWorks
@@ -103,7 +105,7 @@ Angel Studios
 Anova Pictures
 Antena 3, Antena3, Antena-3
 Antena 3 Films
-Anton Capital Entertainment (ACE)
+Anton Capital Entertainment, Anton Capital Entertainment (ACE)
 Apaches Entertainment
 Apelles Entertainment
 APJAC Productions
@@ -115,6 +117,7 @@ Archangel Studios
 Artificial Eye
 Archer Gray
 ARD
+Ardustry Entertainment
 Ariztical
 Ariztical Entertainment
 Armory Films
@@ -236,6 +239,7 @@ C More Total
 C-Station
 C31
 Calimari Productions
+Campanile Productions
 Campbell Grobman Films
 Canale 5
 Capelight Pictures
@@ -272,6 +276,7 @@ Chicago Pacific Entertainment
 Chiller
 China Film, China Film Group Corporation, China Film Group
 Chris Morgan Productions
+Chris Rock Entertainment
 Chubu-Nippon Broadcasting Company
 Cine Nomine
 Cinecolor
@@ -306,6 +311,7 @@ CMC Pictures
 CMV Laservision
 CNC
 CNFF
+Colony, Colony Pictures
 Columbia TriStar Home Entertainment
 comedyctrl+1
 Commission Nationale du Film France
@@ -420,6 +426,7 @@ Eurimages
 Eurimages Council of Europe
 Euro Film Funding
 Evamere Entertainment
+Every Cloud Productions Pty Ltd
 Fable House
 Fabula Pictures
 Faktura Film
@@ -616,6 +623,7 @@ KatzSmith Productions
 Kazak Productions
 KBS 2
 KD Studios
+Keshet 12
 Key Pix Productions
 Keystone Family Pictures
 Kickstart Entertainment
@@ -674,6 +682,7 @@ Lionsgate Productions
 Lira Films
 Little Lamb Productions
 Loap
+LOLflix
 Lorry
 Los Angeles Media Fund
 Los Griegos Films
@@ -701,7 +710,7 @@ Mammoth Screen
 Mandarin Cinema, Mandarin Cinéma
 Mandarin et Compagnie
 Mandarin Films, Mandarin Films Distribution Co.
-Mandarin Motion Pictures Limited
+Mandarin Motion Pictures Limited, Mandarin Films Productions Ltd.
 Mandarin Production
 Mannequin 
 MAPPA
@@ -731,6 +740,7 @@ MGM+
 MGM Television
 Microsoft Movies & TV
 Mid Atlantic Films
+Middle Fork Productions
 Mikros Image
 Mil Nubes-Cine
 Mille Et Une Productions, Mille Et Une
@@ -804,7 +814,8 @@ NQV Media
 Nuyorican Productions
 OCS,  Orange Cinéma Séries (OCS), Orange Cinrma Series (OCS)
 Odra Film
-Olive Films
+Olive Bridge Entertainment
+Olive Film
 Ombra Films
 One Two Films
 Open Palm Films
@@ -881,6 +892,7 @@ Quijote Films
 Quiver Distribution
 RabbitBandini Productions
 RadicalMedia
+Radio Music Hall
 RAI
 RAI 1, RAI1
 RAI 2, RAI2
@@ -921,6 +933,7 @@ Rezo Films
 Riff Raff, Riff Raff Entertainment
 Riot Games
 River Road, River Road Entertainment, River Road Productions
+RKO, RKO Pictures
 RLJ Entertainment
 RLJE Entertainment
 RLJE Films
@@ -1025,6 +1038,7 @@ Sony Crackle
 Sony Pictures
 Sony Pictures Classics
 Sony Wonder
+South Side Amusement Company
 Spaett Film, Spætt Film
 Sparke Films
 Sparkle Roll Media
@@ -1221,6 +1235,7 @@ Utopia
 Vega Film
 Vendaval Producciones S.L.
 Vendian Entertainment
+Vendôme, Vendôme Pictures, Vendome, Vendome Pictures
 Veritas Entertainment Group
 Vertical, Vertical Entertainment
 Vertigo Productions
