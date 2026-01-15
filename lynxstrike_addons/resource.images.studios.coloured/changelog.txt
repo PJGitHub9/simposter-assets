@@ -1,3 +1,7 @@
+v1.0.0013 (2026-01-15)
+- Logos requested by @kittmaster, part 5
+- Logo requested by @PatK (re-issue)
+
 v1.0.0012 (2025-12-13)
 - Logos requested by @kittmaster, part 4
 - Logo requested by @knedl (re-issue)
