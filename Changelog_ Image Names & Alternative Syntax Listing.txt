@@ -1017,9 +1017,6 @@ Sky Atlantic, Sky Atlantic (UK), Sky Atlantic (DE)
 SKy Cinema
 Sky Comedy
 Sky Crime
-Skydance
-Skydance Animation
-Skydance Media
 Sky Documentaries
 Sky Deutschland
 Sky Kids
@@ -1029,6 +1026,9 @@ Sky One, Sky1, Sky One HD, Sky One_HD, sky1 hd
 Sky One Productions
 Sky Showcase
 Sky Witness
+Skydance
+Skydance Animation
+Skydance Media
 Smithsonian Channel
 Smoke House Pictures, Smokehouse Pictures
 Societe nouvelle de cinematographie (SNC), Société nouvelle de cinématographie (SNC)

@@ -5,7 +5,7 @@
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Studio Icons – Coloured and Modded: A vibrant, consistent image pack that makes your Kodi library shine.</summary>
+		<summary lang="en">Studio Icons – A clean, unified pack that makes your Kodi library shine</summary>
 		<description lang="en">Bring your Kodi library to life with Color Studio Icons – Coloured and Modded. This addon delivers a full suite of studio logos in bold, uniform designs, ensuring your media collection looks sharp, consistent, and up-to-date across all versions of Kodi.</description>
 		<platform>all</platform>
 		<assets>
