@@ -91,8 +91,10 @@ AMBI Group
 AMC
 AMC HD, amc_hd
 AMC Pictures
+AMC Plus Apple TV Channel
 AMC Studios
 AMC+
+AMC+ Roku Premium Channel
 American Broadcasting Company, American Broadcasting Company (ABC)
 american broadcasting company (abc) sports
 american movie classics (amc)
@@ -213,6 +215,7 @@ Breaking Glass Pictures
 Briarcliff Entertainment
 Brillstein-Grey Entertainment
 BritBox
+BritBox Apple TV Channel
 British International Pictures, British International Pictures (BIP)
 British Lion Films
 British Sky Broadcasting, British Sky Broadcasting (BSkyB)
@@ -334,6 +337,7 @@ Crackle
 Crave
 Cre Film
 Criterion, Criterion Collection, The Criterion Collection
+Criterion Channel, The Criterion Channel
 Crunchyroll
 CTM Films
 CTV
@@ -342,6 +346,7 @@ CTV Drama
 CTV Life
 CTV Sci-Fi
 Cult Epics
+Curiosity Stream
 Curzon
 Curzon Film World
 Cutare Film
@@ -374,6 +379,7 @@ Digital Interference Productions
 Dino De Laurentiis Company
 Discovery
 Discovery Channel
+Disney Plus
 Discovery+
 Disney+
 Disney Television Animation
@@ -430,7 +436,9 @@ Every Cloud Productions Pty Ltd
 Fable House
 Fabula Pictures
 Faktura Film
+Fandango at Home
 Fardmars Film, Färdmars Film
+Fandor
 Fathom Events
 Fearless Network
 Feigco Entertainment
@@ -459,6 +467,7 @@ First Generation Films
 First Run Features
 Firststep, Firststep Production
 Flare Film
+FlixHouse
 Flynn Picture Company
 Focine
 Fonds Eurimages du Conseil de l'Europe
@@ -487,6 +496,7 @@ Freeform
 Freevee
 FreibeuterFilm
 Fresh Film
+FuboTV
 Fugaku
 Full Moon Entertainment
 Full Moon Features
@@ -496,6 +506,7 @@ Future Artists Entertainment
 FX, FX (US)
 FX HD, FX_HD
 FX Networks
+FX Now
 FX Productions
 GagaOOLala
 Galafilm Productions
@@ -517,6 +528,7 @@ Golden Sun Films
 Goldwyn Films
 Good Machine
 Good Machine Intrernational
+Google Play Movies
 Googly Films
 Goon Films
 Gravitas Ventures
@@ -547,6 +559,7 @@ Highland Film Group, Highland Film Group (HFG)
 Hitmaker Studios
 Hive Media 
 HK Films
+Hoopla
 HOT
 HT Film
 Hughes Entertainment
@@ -610,6 +623,7 @@ Joyn
 JTBC
 Junifilm
 Jurgen Bruning Filmproduktion, Jürgen Brüning Filmproduktion
+JustWatch TV
 JW Productions, JWProductions
 Kaijyu Theater
 Kaleidoscope Home Entertainment
@@ -618,6 +632,7 @@ K2 Pictures
 Kan
 Kan 11
 Kanal 5 (DK)
+Kanopy
 KanZaman, KanZaman Films, KanZaman Productions
 KatzSmith Productions
 Kazak Productions
@@ -736,8 +751,11 @@ Mei Ah Entertainment
 Mels Cite du Cinema
 Mer Film
 Merchant Ivory Productions
-MGM+
+MGM Plus
+MGM Plus Apple TV Channel
+MGM Plus Roku Premium
 MGM Television
+MGM+
 Microsoft Movies & TV
 Mid Atlantic Films
 Middle Fork Productions
@@ -846,6 +864,8 @@ Paramount Network
 Paramount Television
 Paramount Television Studios
 Paramount+
+Paramount+ AppleTV
+Paramount+ Roku Premium Channel
 Paramount+ Showtime
 Paramount+ With Showtime
 Pariah Films
@@ -858,6 +878,7 @@ Pathe Freres
 Pathé Production
 Pathe!, Pathé!, Pathe, Pathé
 Peacock
+Peacock Premium
 Peccadillo Pictures
 Pearl Street Films
 Perspectives Pictures
@@ -940,6 +961,7 @@ RLJE Films
 Robert Simonds Productions
 Robert Stigwood Organization
 Roku
+Roku Channel, The Roku Channel, The_Roku_Channel
 Rooster Teeth
 Rooster Teeth Productions
 Rough House Pictures
@@ -1063,6 +1085,9 @@ Star Thrower Entertainment
 Star TV, StarTV
 Star-Film
 Stardust Pictures
+Starz
+Starz Apple TV Channel
+Starz Roku Premium
 Steamroller Productions
 Sterling Entertainment
 Sterling Entertainment Group
@@ -1090,6 +1115,7 @@ Summit Distribution
 Summit Entertainment
 Summit International
 Summit Media
+Sun Nxt
 SUN TV, SUN-TV
 Sundance Channel
 Sundance TV, SundanceTV
@@ -1309,6 +1335,7 @@ YES
 YLE, YLE HD
 YouTube
 YouTube Premium
+YouTube TV
 YTV
 ZDF
 ZDFneo
