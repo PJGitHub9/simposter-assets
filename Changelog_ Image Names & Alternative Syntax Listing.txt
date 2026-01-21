@@ -94,6 +94,7 @@ AMC Pictures
 AMC Plus Apple TV Channel
 AMC Studios
 AMC+
+AMC+ Amazon Channel
 AMC+ Roku Premium Channel
 American Broadcasting Company, American Broadcasting Company (ABC)
 american broadcasting company (abc) sports
@@ -549,6 +550,7 @@ HBO
 HBO España, HBO Espana
 HBO Asia
 HBO Max, HBO_Max, HBOMax
+HBO Max Amazon Channel
 Head Gear Films
 Hemdale
 here, here!
