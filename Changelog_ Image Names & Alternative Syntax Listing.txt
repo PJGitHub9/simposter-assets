@@ -340,6 +340,7 @@ Cre Film
 Criterion, Criterion Collection, The Criterion Collection
 Criterion Channel, The Criterion Channel
 Crunchyroll
+Crunchyroll Amazon Channel
 CTM Films
 CTV
 CTV Comedy
@@ -438,6 +439,7 @@ Fable House
 Fabula Pictures
 Faktura Film
 Fandango at Home
+Fandango at Home Free
 Fardmars Film, Färdmars Film
 Fandor
 Fathom Events
@@ -758,6 +760,7 @@ MGM Plus Apple TV Channel
 MGM Plus Roku Premium
 MGM Television
 MGM+
+MGM+ Amazon Channel
 Microsoft Movies & TV
 Mid Atlantic Films
 Middle Fork Productions
