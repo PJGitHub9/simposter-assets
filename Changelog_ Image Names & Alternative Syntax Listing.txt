@@ -499,6 +499,7 @@ Freeform
 Freevee
 FreibeuterFilm
 Fresh Film
+Frii
 FuboTV
 Fugaku
 Full Moon Entertainment
@@ -558,6 +559,7 @@ Hemdale
 here, here!
 here tv, HERE! TV
 Here! Films
+Hero
 High Frequency Entertainment
 Highland Film Group, Highland Film Group (HFG)
 Hitmaker Studios
@@ -620,6 +622,7 @@ Jensen Farley Pictures
 Jerico Films
 Jerry Weintraub Productions
 Jerkschool Productions
+Jim
 JJ Splice Films
 Join Motion 
 Joycore Entertainment
@@ -657,6 +660,7 @@ Kopelson Entertainment
 Knudsen Pictures
 KSG Films
 Kurhaus Production
+Kutonen
 La Fabrique de Films
 La Une
 Labyrinth Films
@@ -700,6 +704,7 @@ Lionsgate Films
 Lionsgate Productions
 Lira Films
 Little Lamb Productions
+Liv
 Loap
 LOLflix
 Lorry
@@ -783,7 +788,11 @@ Mountaintop Productions
 Movie Central
 Movision
 Movistar+
+MTV Ava, Ava
 MTV Entertainment Studios
+MTV Katsomo, Katsomo
+MTV Sub, Sub
+MTV3
 Mubi
 Mucho Mas Media
 Municipal Pictures
@@ -799,6 +808,7 @@ NBC studios
 NBC universal television
 Neal Street Productions
 Neighborhood Film Co.
+Nelonen
 Nelson Entertainment
 Neon TV
 Neshama Entertainment
@@ -982,6 +992,7 @@ Rumble Fish Productions
 RÚV, RUV
 Russia-1
 Russia-2
+Ruutu
 RVK Studios
 Rhys Chapman Films
 Saarländischer Rundfunk, Saarlandischer Rundfunk (SR), Saarländischer Rundfunk (SR)
@@ -1086,6 +1097,7 @@ Stakeout Films
 Stampede Entertainment
 Stan
 Stanley Kubrick Productions
+Star Channel
 Star Thrower Entertainment
 Star TV, StarTV
 Star-Film
@@ -1226,6 +1238,7 @@ TV 2 (NO)
 TV 2 Charlie
 TV3 (ES), TV3
 TV3 (NZ) Three
+TV5
 TVE
 TVE Internacional
 TVEI
@@ -1335,6 +1348,10 @@ World Cinema Fund
 Xbox Video
 Yahoo! Screen
 Yahoo! View
+Yle Areena
+Yle Teema & Fem, Yle Teema And Fem
+Yle TV1
+Yle TV2
 Yale Productions
 YES
 YLE, YLE HD
