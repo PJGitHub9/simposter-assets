@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.studios.coloured" name="Studio Icons - Coloured - Modded" version="1.0.0013" provider-name="lynxstrike">
+<addon id="resource.images.studios.coloured" name="Studio Icons - Coloured - Modded" version="1.0.0014" provider-name="lynxstrike">
 	<extension point="kodi.resource.images" compile="true" type="studios" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Studio Icons – Coloured and Modded: A vibrant, consistent image pack that makes your Kodi library shine.</summary>
+		<summary lang="en">Studio Icons – A clean, unified pack that makes your Kodi library shine</summary>
 		<description lang="en">Bring your Kodi library to life with Color Studio Icons – Coloured and Modded. This addon delivers a full suite of studio logos in bold, uniform designs, ensuring your media collection looks sharp, consistent, and up-to-date across all versions of Kodi.</description>
 		<platform>all</platform>
 		<assets>
@@ -13,9 +13,9 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v1.0.0013 (2026-01-15)
-			- Logos requested by @kittmaster, part 5
-			- Logo requested by @PatK (re-issue)
+			v1.0.0014 (2026-01-30)
+			- Logos requested by @maxtherabbit
+			- Streaming bundle logos (Amazon, Apple, Roku)
 		</news>
 	</extension>
 </addon>
