@@ -2,6 +2,7 @@
 3Cat
 5
 20-20
+20th Century Fox Animation
 6th & Idaho, 6th & Idaho Productions, 6th & Idaho Motion Picture Company
 74 Entertainment
 7flix
@@ -59,6 +60,7 @@ ABC1
 ABC2
 ABC3
 Ace Entertainment, Ace Entertainment Films
+Acemaker movieworks
 Acorn
 Acorn TV, AcornTV
 Ad Vitam, Ad Vitam Productions
@@ -75,6 +77,7 @@ AGC Studios
 Agência Nacional do Cinema (ANCINE), Agencia Nacional do Cinema (ANCINE)
 AI-Film
 AIC Studios
+Al Bravo Films
 Alamode Film
 Alfa Matrix
 Alfama Films
@@ -85,7 +88,7 @@ Allied Artists Pictures
 Almeida Theatre
 Alter Ego Pictures
 Amazon Freevee
-Amazon MGM Studios
+Amazon MGM, Amazon MGM Studios
 Amazon Prime Video
 AMBI Group
 AMC
@@ -97,8 +100,8 @@ AMC+
 AMC+ Amazon Channel
 AMC+ Roku Premium Channel
 American Broadcasting Company, American Broadcasting Company (ABC)
-american broadcasting company (abc) sports
-american movie classics (amc)
+American Broadcasting Company (abc) sports
+American Movie Classics (amc)
 American Playhouse
 AMG Entertainment
 Amicus Productions
@@ -117,6 +120,7 @@ Apple TV, AppleTV
 Apple Studios
 Arbelos, Arbelos Films
 Archangel Studios
+Arcturus Pictures
 Artificial Eye
 Archer Gray
 ARD
@@ -158,6 +162,7 @@ B2B, Border2Border Entertainment
 BA Productions
 Babe Films
 BAC Films, BBC Film
+Balboa Productions
 Bandai Namco
 Banger Films
 Bangor Films, BangorFilms
@@ -174,6 +179,7 @@ BBC4, BBC Four
 BBC iPlayer
 BCDF Pictures
 Beast of the East Productions
+Beijing Enlight Pictures
 Bel Air Entertainment, BelAir Entertainment
 Berlanti Prdoductions
 Belga Films
@@ -185,6 +191,7 @@ Big Screen Productions
 Big Talk Studios
 Bigfoot Entertainment, Bigfoot Studios
 Binge
+Black Dragon Entertainment
 Black Label Media
 Black Mandala, Black Mandala Films
 Black Swan Tales
@@ -208,9 +215,11 @@ Boekamp & Kriegsheim
 Bombay Berlin Film
 Bona Entertainment, Bona Film
 Bondit Media Capital
+Born To Burn Films
 BQHL
 Brainstorm Media
 Brad Grey Pictures
+Brad Krevoy Television
 Brandywine Productions
 Breaking Glass Pictures
 Briarcliff Entertainment
@@ -221,6 +230,7 @@ British International Pictures, British International Pictures (BIP)
 British Lion Films
 British Sky Broadcasting, British Sky Broadcasting (BSkyB)
 Broadway Video
+Broken Chair Flickz
 Broken Road Productions
 Bron Studios
 Bronte Pictures
@@ -276,9 +286,11 @@ Channel 83
 Channel Nine
 Channel Ten
 Charles Chaplin Productions
+Chargeurs
 Chicago Pacific Entertainment
 Chiller
 China Film, China Film Group Corporation, China Film Group
+Choice Films
 Chris Morgan Productions
 Chris Rock Entertainment
 Chubu-Nippon Broadcasting Company
@@ -293,6 +305,7 @@ Cinematografica Calderon S.A, Cinematográfica Calderón S.A
 Cinemien
 Cinepata, Cinépata
 Cinereach
+Cinerenta
 Cinergi Pictures
 Cineridge Entertainment
 Cinesite Animation
@@ -378,6 +391,7 @@ Demeusy Pictures
 Den of Thieves
 Di Novi Pictures
 Diamond Film Productions
+Digital Image Associates
 Digital Interference Productions
 Dino De Laurentiis Company
 Discovery
@@ -473,6 +487,7 @@ First Run Features
 Firststep, Firststep Production
 Flare Film
 FlixHouse
+Florin Productions
 Flynn Picture Company
 Focine
 Fonds Eurimages du Conseil de l'Europe
@@ -502,6 +517,7 @@ Freevee
 FreibeuterFilm
 Fresh Film
 Frii
+Front Street Pictures
 FuboTV
 Fugaku
 Full Moon Entertainment
@@ -512,7 +528,7 @@ Future Artists Entertainment
 FX, FX (US)
 FX HD, FX_HD
 FX Networks
-FX Now
+FXNow, FX Now
 FX Productions
 GagaOOLala
 Galafilm Productions
@@ -538,6 +554,7 @@ Google Play Movies
 Googly Films
 Goon Films
 Gravitas Ventures
+Grey Matter Productions
 Grive Productions
 Groelandia Film
 Ground Control Entertainment
@@ -592,6 +609,7 @@ Imprint, Imprint Films
 INCAA
 Independent Entertainment
 Indie Rights Movies
+Indie Sales
 Indigo
 Indigo Film
 Infinite Studios
@@ -600,6 +618,7 @@ Ingenious
 Inspired Family Entertainment
 Instituto Mexicano De Cinematografía,  Instituto Mexicano De Cinematografia
 Insurge Pictures
+International Production Company
 Investigation Discovery
 Invincible, Invincible Entertainment
 Invincible Pictures Corp.
@@ -620,11 +639,14 @@ ITVX
 Jacobs Holding, Jacobs Holdings
 Jagged Edge Productions
 Janus Films
+Jay Weston Productions
+JCE Movies
 Jensen Farley Pictures
 Jerico Films
 Jerry Weintraub Productions
 Jerkschool Productions
 Jim
+Jio studios
 JJ Splice Films
 Join Motion 
 Joycore Entertainment
@@ -632,6 +654,7 @@ Joyn
 JTBC
 Junifilm
 Jurgen Bruning Filmproduktion, Jürgen Brüning Filmproduktion
+Just Creative Studio
 JustWatch TV
 JW Productions, JWProductions
 Kaijyu Theater
@@ -649,6 +672,7 @@ KBS 2
 KD Studios
 Keshet 12
 Key Pix Productions
+Keystone Entertainment
 Keystone Family Pictures
 Kickstart Entertainment
 Kids WB, KidsWB
@@ -695,6 +719,7 @@ Les Films du Fleuve
 Les films du Worso
 Les Films Seville, Les Films Séville
 Levantine Films
+Level 33 Entertainment
 levelFILM
 Levitate Film
 Lidenfilms
@@ -708,6 +733,7 @@ Lira Films
 Little Lamb Productions
 Liv
 Loap
+Local Films
 LOLflix
 Lorry
 Los Angeles Media Fund
@@ -731,6 +757,7 @@ Mad Dog Films
 Mad Hatter Entertainment
 MadRiver Pictures
 Magenta TV, MagentaTV
+magiCity Studios
 Maipo Film
 Mammoth Screen
 Mandarin Cinema, Mandarin Cinéma
@@ -781,6 +808,7 @@ MM2 Entertainment
 Mollywood
 Momentum Pictures
 Mondo Home Entertainment
+Monkeypaw Productions
 Monterey Media
 Morgan Creek Entertainment
 Morgan_Creek
@@ -816,6 +844,7 @@ Neon TV
 Neshama Entertainment
 Network Ten
 New Century Entertainment Corporation
+New Crime Productions
 New Leaf Pictures
 New Real Films
 New Regency Pictures
@@ -832,6 +861,7 @@ Nickelodeon Animation Studios
 Nickelodeon Movies
 Nickelodeon Productions
 Nickelodeon Studios
+Nimar Studios
 Nine Network
 Nine Stories Productions
 NL Film
@@ -845,8 +875,10 @@ North Hill Productions
 North Hollywood Films
 Northern Ireland Screen
 Northern Lights Films
+Nostromo Pictures
 NQV Media
 Nuyorican Productions
+Oakhurst Entertainment
 OCS,  Orange Cinéma Séries (OCS), Orange Cinrma Series (OCS)
 Odra Film
 Olive Bridge Entertainment
@@ -855,11 +887,12 @@ Ombra Films
 One Two Films
 Open Palm Films
 Orange Cinéma Séries, Orange Cinema Series
-Orange Studios
+Orange Studio., Orange Studios
 Orbrock Film, Orbrock Filmproduktion
 Orbrock
 ORF 1
 Orion Classics
+Orwo Studios, Orwo Studios (US)
 Osterreichischer Rundfunk (ORF), Österreichischer Rundfunk (ORF)
 Out TV, OUTtv
 Outplay Films
@@ -878,6 +911,7 @@ Paragon Entertainment Corp., Paragon Entertainment Corp
 Paramount Animation
 Paramount Classics
 Paramount Network
+Paramount Players
 Paramount Television
 Paramount Television Studios
 Paramount+
@@ -913,10 +947,12 @@ Polygon pictures
 PolyGram
 PolyGram Pictures
 Pony Canyon
+Pope Productions
 Portobello
 Portobello Productions
 Premier (Russia)
 Price Entertainment
+Pride Of Gypsies
 Prime Video
 Pro-Fun Media
 Propaganda Films
@@ -945,12 +981,14 @@ Raimi Productions
 Rain Dogs Production
 Raindog Films
 Raindance Entertainment
+RainMaker Films
 Rakuten TV
 Random Media
 Rapid Heart Pictures
 Rankin Bass,Rankin_Bass, RankinBass
 Rankin Bass Productions, Rankin_Bass Productions, RankinBass Productions
 Rastar Productions
+RAT Entertainment
 RatPac Entertainment, RatPac-Dune Entertainment
 Raven Banner, Raven Banner Entertainment
 RCR Media Group
@@ -982,6 +1020,8 @@ Roku
 Roku Channel, The Roku Channel, The_Roku_Channel
 Rooster Teeth
 Rooster Teeth Productions
+Rossen Films
+Roth-Kirschenbaum Films
 Rough House Pictures
 RPS Productions
 RT Features
@@ -1001,6 +1041,7 @@ Rhys Chapman Films
 Saarländischer Rundfunk, Saarlandischer Rundfunk (SR), Saarländischer Rundfunk (SR)
 Saban Films
 Sabesp
+Safier Entertainment
 Salzgeber, Salzgeber & Company Medien
 Samuel Goldwyn
 Samuel Goldwyn Company
@@ -1030,6 +1071,7 @@ Sepia Films
 Septembre Productions
 Serena Films
 Séries Plus, Series Plus
+Seven Bucks Productions
 Seven Network
 SevenPictures
 Seventh Art Releasing
@@ -1049,6 +1091,7 @@ Sierra Affinity
 Sierra, Sierra Pictures
 Signature, Signature Entertainment, Signature Films
 Silver Lining Entertainment
+Simcom Limited
 Six Island Productions
 Sixteen Films
 SK Global Entertainment
@@ -1074,6 +1117,7 @@ Skydance Animation
 Skydance Media
 Smithsonian Channel
 Smoke House Pictures, Smokehouse Pictures
+SNL
 Societe nouvelle de cinematographie (SNC), Société nouvelle de cinématographie (SNC)
 Solstice Studios
 Solution Entertainment Group
@@ -1098,6 +1142,7 @@ Spyglass Media Group
 Square One Entertainment
 SRF
 SRG - SSR
+SRS Cinema
 Stakeout Films
 Stampede Entertainment
 Stan
@@ -1113,6 +1158,7 @@ Starz Roku Premium
 Steamroller Productions
 Sterling Entertainment
 Sterling Entertainment Group
+Stewart Wade Films
 Storm Post Production
 Storyboard Media
 Strand Releasing
@@ -1157,6 +1203,7 @@ T-Street
 Tabula Dada Productions
 Taewon Entertainment
 Tai Entertainment
+Taillight TV
 Take A Seat Pictures
 Tantan Films
 Taylor Dodge, Taylor & Dodge
@@ -1201,6 +1248,7 @@ The Zanuck
 ThinkFilm
 Third Coast Content
 Third Window Films
+This Machine Filmworks
 Three (New Zealand)
 Throwing Star Films
 THT
@@ -1255,6 +1303,8 @@ TVNZ TV2
 TVS Sydney
 Twilight Time
 Twins Latin Films
+Two Ton Films
+Two Ton Pictures
 U&alibi
 U&Drama
 Ubisoft Film & Television
