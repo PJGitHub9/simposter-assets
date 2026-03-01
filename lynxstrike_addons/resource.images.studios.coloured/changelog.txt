@@ -1,3 +1,6 @@
+v1.0.0016 (2026-03-01)
+- Logos requested by @kittmaster, part 7
+
 v1.0.0015 (2026-02-15)
 - Logos requested by @GBUK83
 - Logos requested by @kittmaster, part 6
