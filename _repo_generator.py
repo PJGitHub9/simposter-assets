@@ -397,9 +397,11 @@ class Generator:
 
 
 if __name__ == "__main__":
-    for release in [r for r in KODI_VERSIONS_FOLDER_ROOTS if os.path.exists(r)]:
-        Generator(release)
 
+    script_dir = os.path.abspath(os.path.dirname(__file__))
+    os.chdir(script_dir)
+    for release in[r for r in KODI_VERSIONS_FOLDER_ROOTS if os.path.exists(r)]:
+        Generator(release)
 
 print()
 print()        
