@@ -856,6 +856,8 @@ Les Films Séville
 Levantine Films
 Level 33 Entertainment
 levelFILM
+LevelK
+LevelK Pictures
 Levitate Film
 Lidenfilms
 Light Chaser Amination Studios
@@ -1033,6 +1035,7 @@ North Hollywood Films
 Northern Ireland Screen
 Northern Lights Films
 Nostromo Pictures
+Novotny & Novotny Filmproduktion
 NQV Media
 Nuyorican Productions
 Oakhurst Entertainment
