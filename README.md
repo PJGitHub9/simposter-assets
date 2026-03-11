@@ -1,4 +1,4 @@
-# lynxstrike-logos
+# simposter-assets
 
 This repository contains studio logos used by [Simposter](https://github.com/PJGitHub9/Simposter/).
 
