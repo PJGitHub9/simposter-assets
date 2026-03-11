@@ -1,2 +1,8 @@
 *.lnk
 *.ini
+
+# Python
+__pycache__/
+*.py[cod]
+/check_missing.py
+check_missing.py
