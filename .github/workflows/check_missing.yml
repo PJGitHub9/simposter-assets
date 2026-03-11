@@ -1,0 +1,117 @@
+name: Sync Missing Logos
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # Every Monday at 9am UTC
+  workflow_dispatch:      # Allow manual trigger from Actions tab
+
+permissions:
+  contents: write  # Needed to commit, push, and create releases
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history so we can read tags
+
+      - name: Sparse-clone lynxstrike/lynxstrike.repo (decompiled/ only)
+        run: |
+          git clone --filter=blob:none --sparse https://github.com/lynxstrike/lynxstrike.repo.git lynxstrike-source
+          cd lynxstrike-source
+          git sparse-checkout set decompiled
+
+      - name: Copy missing files and prepare release notes
+        id: sync
+        run: |
+          python3 - <<'EOF'
+          import os, shutil
+
+          logos_dir  = "logos"
+          source_dir = "lynxstrike-source/decompiled"
+
+          logos_files  = {f.lower(): f for f in os.listdir(logos_dir)  if os.path.isfile(os.path.join(logos_dir,  f))}
+          source_files = {f.lower(): f for f in os.listdir(source_dir) if os.path.isfile(os.path.join(source_dir, f))}
+
+          missing_keys = sorted(source_files.keys() - logos_files.keys())
+          added = []
+
+          for key in missing_keys:
+              original = source_files[key]
+              shutil.copy(os.path.join(source_dir, original), os.path.join(logos_dir, original))
+              added.append(original)
+
+          # Write added list to a file for later steps
+          with open("added_files.txt", "w") as f:
+              f.write("\n".join(added))
+
+          summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/stdout")
+          with open(summary, "a") as out:
+              out.write("## Sync Results\n\n")
+              out.write(f"| | Count |\n|---|---|\n")
+              out.write(f"| logos/ (before) | {len(logos_files)} |\n")
+              out.write(f"| lynxstrike decompiled/ | {len(source_files)} |\n")
+              out.write(f"| **Added** | **{len(added)}** |\n\n")
+              if added:
+                  out.write("### Added\n\n")
+                  for name in added:
+                      out.write(f"- `{name}`\n")
+              else:
+                  out.write(":white_check_mark: Already up to date — nothing to add.\n")
+          EOF
+
+      - name: Commit and push if anything was added
+        id: commit
+        run: |
+          ADDED=$(wc -l < added_files.txt | tr -d ' ')
+          if [ "$ADDED" -eq "0" ]; then
+            echo "nothing_added=true" >> $GITHUB_OUTPUT
+            echo "No new files — skipping commit and release."
+            exit 0
+          fi
+          echo "nothing_added=false" >> $GITHUB_OUTPUT
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add logos/
+          git commit -m "Add $ADDED missing logo(s) from lynxstrike"
+          git push
+
+      - name: Calculate next version
+        id: version
+        if: steps.commit.outputs.nothing_added == 'false'
+        run: |
+          # Get latest tag (default to v1.000 if none exist)
+          LATEST=$(git tag --sort=-v:refname | head -n 1)
+          if [ -z "$LATEST" ]; then
+            NEXT="v1.000"
+          else
+            # Strip the 'v', increment by 0.001, reformat to 3 decimal places
+            NUM="${LATEST#v}"
+            NEXT="v$(python3 -c "print(f'{float(\"$NUM\") + 0.001:.3f}')")"
+          fi
+          echo "tag=$NEXT" >> $GITHUB_OUTPUT
+          echo "Next version: $NEXT"
+
+      - name: Create release
+        if: steps.commit.outputs.nothing_added == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.version.outputs.tag }}"
+          ADDED=$(cat added_files.txt)
+          COUNT=$(wc -l < added_files.txt | tr -d ' ')
+
+          BODY="## What's Changed
+
+          Added $COUNT logo(s) sourced from [lynxstrike/lynxstrike.repo](https://github.com/lynxstrike/lynxstrike.repo).
+
+          ### Added logos
+
+          $(while IFS= read -r line; do echo "- \`$line\`"; done < added_files.txt)"
+
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes "$BODY"
