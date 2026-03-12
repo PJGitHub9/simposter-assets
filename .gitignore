@@ -1,6 +1,10 @@
 *.lnk
 *.ini
 
+# Local secrets and reports
+.env
+tmdb_confidence_report.csv
+
 # Python
 __pycache__/
 *.py[cod]

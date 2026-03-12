@@ -66,6 +66,18 @@ jobs:
       - name: Update asset index
         run: python3 generate_asset_index.py
 
+      - name: Enrich new logos with TMDB IDs
+        if: ${{ hashFiles('added_files.txt') != '' }}
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          ADDED=$(wc -l < added_files.txt | tr -d ' ')
+          if [ "$ADDED" -gt "0" ]; then
+            python3 enrich_tmdb_ids.py --files added_files.txt
+          else
+            echo "No new logos — skipping TMDB enrichment."
+          fi
+
       - name: Commit and push if anything was added
         id: commit
         run: |
