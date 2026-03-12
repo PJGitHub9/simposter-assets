@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; d=json.load\\(open\\(''logos.json'', encoding=''utf-8''\\)\\); print\\(json.dumps\\(d[:2], indent=2, ensure_ascii=False\\)\\)\")"
+    ]
+  }
+}

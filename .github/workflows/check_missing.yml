@@ -63,18 +63,29 @@ jobs:
                   out.write(":white_check_mark: Already up to date — nothing to add.\n")
           EOF
 
+      - name: Update asset index
+        run: python3 generate_asset_index.py
+
       - name: Commit and push if anything was added
         id: commit
         run: |
           ADDED=$(wc -l < added_files.txt | tr -d ' ')
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.json
           if [ "$ADDED" -eq "0" ]; then
+            # Only commit if any index changed
+            if git diff --cached --quiet; then
+              echo "nothing_added=true" >> $GITHUB_OUTPUT
+              echo "No new files and index unchanged — skipping commit and release."
+              exit 0
+            fi
             echo "nothing_added=true" >> $GITHUB_OUTPUT
-            echo "No new files — skipping commit and release."
+            git commit -m "Update asset index"
+            git push
             exit 0
           fi
           echo "nothing_added=false" >> $GITHUB_OUTPUT
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add logos/
           git commit -m "Add $ADDED missing logo(s) from lynxstrike"
           git push

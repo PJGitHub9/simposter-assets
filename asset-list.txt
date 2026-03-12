@@ -1,0 +1,4 @@
+# List the folders in this repo to include in the asset index.
+# One folder name per line. Lines starting with # are ignored.
+
+logos
