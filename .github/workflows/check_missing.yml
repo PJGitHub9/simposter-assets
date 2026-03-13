@@ -24,29 +24,40 @@ jobs:
           cd lynxstrike-source
           git sparse-checkout set decompiled
 
-      - name: Copy missing files and prepare release notes
+      - name: Copy missing/updated files and prepare release notes
         id: sync
         run: |
           python3 - <<'EOF'
-          import os, shutil
+          import hashlib, os, shutil
 
           logos_dir  = "logos"
           source_dir = "lynxstrike-source/decompiled"
 
+          def md5(path):
+              h = hashlib.md5()
+              with open(path, "rb") as f:
+                  for chunk in iter(lambda: f.read(65536), b""):
+                      h.update(chunk)
+              return h.hexdigest()
+
           logos_files  = {f.lower(): f for f in os.listdir(logos_dir)  if os.path.isfile(os.path.join(logos_dir,  f))}
           source_files = {f.lower(): f for f in os.listdir(source_dir) if os.path.isfile(os.path.join(source_dir, f))}
 
-          missing_keys = sorted(source_files.keys() - logos_files.keys())
-          added = []
+          added   = []
+          updated = []
 
-          for key in missing_keys:
-              original = source_files[key]
-              shutil.copy(os.path.join(source_dir, original), os.path.join(logos_dir, original))
-              added.append(original)
+          for key, original in sorted(source_files.items()):
+              src  = os.path.join(source_dir, original)
+              dest = os.path.join(logos_dir, original)
+              if key not in logos_files:
+                  shutil.copy(src, dest)
+                  added.append(original)
+              elif md5(src) != md5(dest):
+                  shutil.copy(src, dest)
+                  updated.append(original)
 
-          # Write added list to a file for later steps
-          with open("added_files.txt", "w") as f:
-              f.write("\n".join(added))
+          with open("added_files.txt",   "w") as f: f.write("\n".join(added))
+          with open("updated_files.txt", "w") as f: f.write("\n".join(updated))
 
           summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/stdout")
           with open(summary, "a") as out:
@@ -54,20 +65,22 @@ jobs:
               out.write(f"| | Count |\n|---|---|\n")
               out.write(f"| logos/ (before) | {len(logos_files)} |\n")
               out.write(f"| lynxstrike decompiled/ | {len(source_files)} |\n")
-              out.write(f"| **Added** | **{len(added)}** |\n\n")
+              out.write(f"| **Added** | **{len(added)}** |\n")
+              out.write(f"| **Updated** | **{len(updated)}** |\n\n")
               if added:
                   out.write("### Added\n\n")
-                  for name in added:
-                      out.write(f"- `{name}`\n")
-              else:
-                  out.write(":white_check_mark: Already up to date — nothing to add.\n")
+                  for name in added: out.write(f"- `{name}`\n")
+              if updated:
+                  out.write("### Updated\n\n")
+                  for name in updated: out.write(f"- `{name}`\n")
+              if not added and not updated:
+                  out.write(":white_check_mark: Already up to date — nothing to add or update.\n")
           EOF
 
       - name: Update asset index
-        run: python3 generate_asset_index.py
+        run: python3 generate_asset_index.py --updated updated_files.txt
 
       - name: Enrich new logos with TMDB IDs
-        if: ${{ hashFiles('added_files.txt') != '' }}
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
@@ -78,18 +91,20 @@ jobs:
             echo "No new logos — skipping TMDB enrichment."
           fi
 
-      - name: Commit and push if anything was added
+      - name: Commit and push if anything changed
         id: commit
         run: |
           ADDED=$(wc -l < added_files.txt | tr -d ' ')
+          UPDATED=$(wc -l < updated_files.txt | tr -d ' ')
+          CHANGED=$((ADDED + UPDATED))
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.json
-          if [ "$ADDED" -eq "0" ]; then
+          git add *.json logos/
+          if [ "$CHANGED" -eq "0" ]; then
             # Only commit if any index changed
             if git diff --cached --quiet; then
               echo "nothing_added=true" >> $GITHUB_OUTPUT
-              echo "No new files and index unchanged — skipping commit and release."
+              echo "No changes — skipping commit and release."
               exit 0
             fi
             echo "nothing_added=true" >> $GITHUB_OUTPUT
@@ -98,8 +113,10 @@ jobs:
             exit 0
           fi
           echo "nothing_added=false" >> $GITHUB_OUTPUT
-          git add logos/
-          git commit -m "Add $ADDED missing logo(s) from lynxstrike"
+          MSG="Sync logos from lynxstrike"
+          [ "$ADDED"   -gt "0" ] && MSG="$MSG: +$ADDED added"
+          [ "$UPDATED" -gt "0" ] && MSG="$MSG, $UPDATED updated"
+          git commit -m "$MSG"
           git push
 
       - name: Calculate next version

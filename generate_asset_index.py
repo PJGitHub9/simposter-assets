@@ -13,9 +13,10 @@ Schema:
   ...
 ]
 
-New entries are appended. Existing entries are never modified (preserves date_added).
+New entries are appended. Updated entries (passed via --updated) have their date_added refreshed.
 """
 
+import argparse
 import json
 import os
 import sys
@@ -24,6 +25,16 @@ from datetime import datetime, timezone
 # Ensure stdout handles unicode (matters on Windows)
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--updated", help="File containing newline-separated filenames that were overwritten upstream")
+args = parser.parse_args()
+
+# Load the set of updated filenames (if provided)
+updated_filenames = set()
+if args.updated and os.path.exists(args.updated):
+    with open(args.updated, encoding="utf-8") as f:
+        updated_filenames = {line.strip() for line in f if line.strip()}
 
 REPO = "PJGitHub9/simposter-assets"
 BRANCH = "main"
@@ -42,6 +53,7 @@ with open(ASSET_LIST) as f:
 # --- Process each folder independently ---
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 total_new = 0
+total_updated = 0
 
 for folder in folders:
     if not os.path.isdir(folder):
@@ -58,8 +70,17 @@ for folder in folders:
         existing = []
 
     existing_names = {entry["name"] for entry in existing}
+    changed = False
 
-    # Find new files
+    # Refresh date_added for updated files
+    for entry in existing:
+        if entry["name"] in updated_filenames:
+            entry["date_added"] = today
+            print(f"  [{folder}] ~ {entry['name']} (updated)")
+            total_updated += 1
+            changed = True
+
+    # Append new files
     new_entries = []
     for filename in sorted(os.listdir(folder)):
         if not os.path.isfile(os.path.join(folder, filename)):
@@ -72,14 +93,15 @@ for folder in folders:
             "date_added": today
         })
         print(f"  [{folder}] + {filename}")
+        total_new += 1
+        changed = True
 
-    if new_entries:
-        updated = existing + new_entries
+    if changed:
+        final = existing + new_entries
         with open(index_file, "w", encoding="utf-8") as f:
-            json.dump(updated, f, indent=2, ensure_ascii=False)
-        print(f"  {index_file}: added {len(new_entries)}, total {len(updated)}")
-        total_new += len(new_entries)
+            json.dump(final, f, indent=2, ensure_ascii=False)
+        print(f"  {index_file}: +{len(new_entries)} added, ~{sum(1 for e in existing if e['name'] in updated_filenames)} updated, {len(final)} total")
     else:
         print(f"  {index_file}: up to date ({len(existing)} entries)")
 
-print(f"\nDone. {total_new} new entries across all indexes.")
+print(f"\nDone. {total_new} new, {total_updated} updated across all indexes.")
