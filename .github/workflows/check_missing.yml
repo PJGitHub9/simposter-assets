@@ -144,29 +144,26 @@ jobs:
           ADDED_COUNT=$(wc -l < added_files.txt | tr -d ' ')
           UPDATED_COUNT=$(wc -l < updated_files.txt | tr -d ' ')
 
-          BODY="## What's Changed"
+          echo "## What's Changed" > release_notes.md
 
           if [ "$ADDED_COUNT" -gt "0" ]; then
-            BODY="$BODY
-
-### Added ($ADDED_COUNT)
-
-$(while IFS= read -r line; do echo "- \`$line\`"; done < added_files.txt)"
+            echo "" >> release_notes.md
+            echo "### Added ($ADDED_COUNT)" >> release_notes.md
+            echo "" >> release_notes.md
+            while IFS= read -r line; do echo "- \`$line\`"; done < added_files.txt >> release_notes.md
           fi
 
           if [ "$UPDATED_COUNT" -gt "0" ]; then
-            BODY="$BODY
-
-### Updated ($UPDATED_COUNT)
-
-$(while IFS= read -r line; do echo "- \`$line\`"; done < updated_files.txt)"
+            echo "" >> release_notes.md
+            echo "### Updated ($UPDATED_COUNT)" >> release_notes.md
+            echo "" >> release_notes.md
+            while IFS= read -r line; do echo "- \`$line\`"; done < updated_files.txt >> release_notes.md
           fi
 
-          BODY="$BODY
-
----
-Sourced from [lynxstrike/lynxstrike.repo](https://github.com/lynxstrike/lynxstrike.repo)"
+          echo "" >> release_notes.md
+          echo "---" >> release_notes.md
+          echo "Sourced from [lynxstrike/lynxstrike.repo](https://github.com/lynxstrike/lynxstrike.repo)" >> release_notes.md
 
           gh release create "$TAG" \
             --title "$TAG" \
-            --notes "$BODY"
+            --notes-file release_notes.md
