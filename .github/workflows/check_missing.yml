@@ -141,16 +141,31 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG="${{ steps.version.outputs.tag }}"
-          ADDED=$(cat added_files.txt)
-          COUNT=$(wc -l < added_files.txt | tr -d ' ')
+          ADDED_COUNT=$(wc -l < added_files.txt | tr -d ' ')
+          UPDATED_COUNT=$(wc -l < updated_files.txt | tr -d ' ')
 
-          BODY="## What's Changed
+          BODY="## What's Changed"
 
-          Added $COUNT logo(s) sourced from [lynxstrike/lynxstrike.repo](https://github.com/lynxstrike/lynxstrike.repo).
+          if [ "$ADDED_COUNT" -gt "0" ]; then
+            BODY="$BODY
 
-          ### Added logos
+### Added ($ADDED_COUNT)
 
-          $(while IFS= read -r line; do echo "- \`$line\`"; done < added_files.txt)"
+$(while IFS= read -r line; do echo "- \`$line\`"; done < added_files.txt)"
+          fi
+
+          if [ "$UPDATED_COUNT" -gt "0" ]; then
+            BODY="$BODY
+
+### Updated ($UPDATED_COUNT)
+
+$(while IFS= read -r line; do echo "- \`$line\`"; done < updated_files.txt)"
+          fi
+
+          BODY="$BODY
+
+---
+Sourced from [lynxstrike/lynxstrike.repo](https://github.com/lynxstrike/lynxstrike.repo)"
 
           gh release create "$TAG" \
             --title "$TAG" \
