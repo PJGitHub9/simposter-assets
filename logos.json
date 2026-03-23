@@ -3662,7 +3662,7 @@
   {
     "name": "Fardmars Film.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Fardmars Film.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-03-23",
     "tmdb_production_company_id": 156487
   },
   {
@@ -44048,7 +44048,7 @@
   {
     "name": "think film.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/think film.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-03-23",
     "tmdb_production_company_id": 151471
   },
   {
@@ -44060,7 +44060,7 @@
   {
     "name": "thinkfilm.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/thinkfilm.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-03-23",
     "tmdb_production_company_id": 446
   },
   {
@@ -49156,5 +49156,35 @@
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Österreichischer Rundfunk (ORF).png",
     "date_added": "2026-03-12",
     "tmdb_production_company_id": null
+  },
+  {
+    "name": "DreamWorks Animation Television.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/DreamWorks Animation Television.png",
+    "date_added": "2026-03-23",
+    "tmdb_production_company_id": 42141
+  },
+  {
+    "name": "Färdmars Film.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Färdmars Film.png",
+    "date_added": "2026-03-23",
+    "tmdb_production_company_id": 156487
+  },
+  {
+    "name": "Les Films Alain Sarde.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Les Films Alain Sarde.png",
+    "date_added": "2026-03-23",
+    "tmdb_production_company_id": 635
+  },
+  {
+    "name": "Octopunk Media.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Octopunk Media.png",
+    "date_added": "2026-03-23",
+    "tmdb_production_company_id": 104630
+  },
+  {
+    "name": "Virgin Films.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Virgin Films.png",
+    "date_added": "2026-03-23",
+    "tmdb_production_company_id": 3150
   }
 ]
