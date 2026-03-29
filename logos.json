@@ -3794,7 +3794,7 @@
   {
     "name": "FilmBuff.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/FilmBuff.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-03-29",
     "tmdb_production_company_id": 15722
   },
   {
@@ -49186,5 +49186,10 @@
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Virgin Films.png",
     "date_added": "2026-03-23",
     "tmdb_production_company_id": 3150
+  },
+  {
+    "name": "Videoland (NL).png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Videoland (NL).png",
+    "date_added": "2026-03-29"
   }
 ]
