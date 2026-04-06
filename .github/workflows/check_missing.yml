@@ -40,24 +40,39 @@ jobs:
                       h.update(chunk)
               return h.hexdigest()
 
+          from collections import Counter
+
           logos_files  = {f.lower(): f for f in os.listdir(logos_dir)  if os.path.isfile(os.path.join(logos_dir,  f))}
           source_files = {f.lower(): f for f in os.listdir(source_dir) if os.path.isfile(os.path.join(source_dir, f))}
 
-          added   = []
-          updated = []
+          # Detect placeholder hash — most common hash across all source files
+          hash_counts = Counter(md5(os.path.join(source_dir, f)) for f in source_files.values())
+          placeholder_hash, ph_count = hash_counts.most_common(1)[0]
+          print(f"Placeholder hash: {placeholder_hash} ({ph_count} files)")
+
+          added, updated, placeholders = [], [], []
 
           for key, original in sorted(source_files.items()):
               src  = os.path.join(source_dir, original)
               dest = os.path.join(logos_dir, original)
+              src_hash = md5(src)
+              is_placeholder = src_hash == placeholder_hash
               if key not in logos_files:
                   shutil.copy(src, dest)
-                  added.append(original)
-              elif md5(src) != md5(dest):
+                  if is_placeholder:
+                      placeholders.append(original)
+                  else:
+                      added.append(original)
+              elif src_hash != md5(dest):
                   shutil.copy(src, dest)
-                  updated.append(original)
+                  if is_placeholder:
+                      placeholders.append(original)
+                  else:
+                      updated.append(original)
 
-          with open("added_files.txt",   "w") as f: f.write("\n".join(added))
-          with open("updated_files.txt", "w") as f: f.write("\n".join(updated))
+          with open("added_files.txt",       "w") as f: f.write("\n".join(added))
+          with open("updated_files.txt",     "w") as f: f.write("\n".join(updated))
+          with open("placeholder_files.txt", "w") as f: f.write("\n".join(placeholders))
 
           summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/stdout")
           with open(summary, "a") as out:
@@ -66,27 +81,33 @@ jobs:
               out.write(f"| logos/ (before) | {len(logos_files)} |\n")
               out.write(f"| lynxstrike decompiled/ | {len(source_files)} |\n")
               out.write(f"| **Added** | **{len(added)}** |\n")
-              out.write(f"| **Updated** | **{len(updated)}** |\n\n")
+              out.write(f"| **Updated** | **{len(updated)}** |\n")
+              out.write(f"| **Placeholders** | **{len(placeholders)}** |\n\n")
               if added:
                   out.write("### Added\n\n")
                   for name in added: out.write(f"- `{name}`\n")
               if updated:
                   out.write("### Updated\n\n")
                   for name in updated: out.write(f"- `{name}`\n")
-              if not added and not updated:
+              if placeholders:
+                  out.write("### Placeholders (no real logo yet)\n\n")
+                  for name in placeholders: out.write(f"- `{name}`\n")
+              if not added and not updated and not placeholders:
                   out.write(":white_check_mark: Already up to date — nothing to add or update.\n")
           EOF
 
       - name: Update asset index
-        run: python3 generate_asset_index.py --updated updated_files.txt
+        run: python3 generate_asset_index.py --updated updated_files.txt --placeholders placeholder_files.txt
 
       - name: Enrich new logos with TMDB IDs
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          ADDED=$(wc -l < added_files.txt | tr -d ' ')
-          if [ "$ADDED" -gt "0" ]; then
-            python3 enrich_tmdb_ids.py --files added_files.txt
+          # Combine added + placeholder into one list for TMDB lookup
+          cat added_files.txt placeholder_files.txt | grep -v '^$' > new_files_for_tmdb.txt || true
+          COUNT=$(wc -l < new_files_for_tmdb.txt | tr -d ' ')
+          if [ "$COUNT" -gt "0" ]; then
+            python3 enrich_tmdb_ids.py --files new_files_for_tmdb.txt
           else
             echo "No new logos — skipping TMDB enrichment."
           fi

@@ -10,3 +10,4 @@ __pycache__/
 *.py[cod]
 /check_missing.py
 check_missing.py
+fix_placeholder_urls.py

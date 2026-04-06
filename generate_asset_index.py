@@ -27,14 +27,18 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--updated", help="File containing newline-separated filenames that were overwritten upstream")
+parser.add_argument("--updated",      help="Newline-separated filenames that were overwritten upstream")
+parser.add_argument("--placeholders", help="Newline-separated filenames that are placeholder images")
 args = parser.parse_args()
 
-# Load the set of updated filenames (if provided)
-updated_filenames = set()
-if args.updated and os.path.exists(args.updated):
-    with open(args.updated, encoding="utf-8") as f:
-        updated_filenames = {line.strip() for line in f if line.strip()}
+def load_fileset(path):
+    if path and os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            return {line.strip() for line in f if line.strip()}
+    return set()
+
+updated_filenames     = load_fileset(args.updated)
+placeholder_filenames = load_fileset(args.placeholders)
 
 REPO = "PJGitHub9/simposter-assets"
 BRANCH = "main"
@@ -72,11 +76,15 @@ for folder in folders:
     existing_names = {entry["name"] for entry in existing}
     changed = False
 
-    # Refresh date_added for updated files
+    # Refresh updated files — also fill URL if it was previously a placeholder
     for entry in existing:
         if entry["name"] in updated_filenames:
             entry["date_added"] = today
-            print(f"  [{folder}] ~ {entry['name']} (updated)")
+            if not entry.get("url"):
+                entry["url"] = f"{RAW_BASE}/{folder}/{entry['name']}"
+                print(f"  [{folder}] ^ {entry['name']} (placeholder → real logo, url filled)")
+            else:
+                print(f"  [{folder}] ~ {entry['name']} (updated)")
             total_updated += 1
             changed = True
 
@@ -87,12 +95,14 @@ for folder in folders:
             continue
         if filename in existing_names:
             continue
+        is_placeholder = filename in placeholder_filenames
         new_entries.append({
             "name": filename,
-            "url": f"{RAW_BASE}/{folder}/{filename}",
+            "url": None if is_placeholder else f"{RAW_BASE}/{folder}/{filename}",
             "date_added": today
         })
-        print(f"  [{folder}] + {filename}")
+        label = "(placeholder)" if is_placeholder else ""
+        print(f"  [{folder}] + {filename} {label}".strip())
         total_new += 1
         changed = True
 
