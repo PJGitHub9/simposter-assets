@@ -5720,7 +5720,7 @@
   {
     "name": "Lime Street Entertainment.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Lime Street Entertainment.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-07-27",
     "tmdb_production_company_id": 18004
   },
   {
@@ -8449,8 +8449,8 @@
   },
   {
     "name": "Selznick International Pictures.png",
-    "url": null,
-    "date_added": "2026-04-06",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Selznick International Pictures.png",
+    "date_added": "2026-07-27",
     "tmdb_production_company_id": 1553
   },
   {
@@ -34544,7 +34544,7 @@
   {
     "name": "paramount network.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/paramount network.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-07-27",
     "tmdb_production_company_id": 161449
   },
   {
@@ -49670,5 +49670,29 @@
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Toff Guy Films.png",
     "date_added": "2026-06-29",
     "tmdb_production_company_id": 2900
+  },
+  {
+    "name": "Bosque Ranch Productions.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Bosque Ranch Productions.png",
+    "date_added": "2026-07-27",
+    "tmdb_production_company_id": 106789
+  },
+  {
+    "name": "Linson Entertainment.jpg",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Linson Entertainment.jpg",
+    "date_added": "2026-07-27",
+    "tmdb_production_company_id": 4700
+  },
+  {
+    "name": "Linson Entertainment.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Linson Entertainment.png",
+    "date_added": "2026-07-27",
+    "tmdb_production_company_id": 4700
+  },
+  {
+    "name": "Selznick Pictures.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Selznick Pictures.png",
+    "date_added": "2026-07-27",
+    "tmdb_production_company_id": 105286
   }
 ]
