@@ -54,7 +54,9 @@ jobs:
 
           for key, original in sorted(source_files.items()):
               src  = os.path.join(source_dir, original)
-              dest = os.path.join(logos_dir, original)
+              # Match existing logos case-insensitively and keep their on-disk name,
+              # so an upstream case-only rename (e.g. pathe.png -> Pathe.png) doesn't break
+              dest = os.path.join(logos_dir, logos_files.get(key, original))
               src_hash = md5(src)
               is_placeholder = src_hash == placeholder_hash
               if key not in logos_files:
