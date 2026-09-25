@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0  # Full history so we can read tags
 
@@ -72,9 +72,9 @@ jobs:
                   else:
                       updated.append(original)
 
-          with open("added_files.txt",       "w") as f: f.write("\n".join(added))
-          with open("updated_files.txt",     "w") as f: f.write("\n".join(updated))
-          with open("placeholder_files.txt", "w") as f: f.write("\n".join(placeholders))
+          with open("added_files.txt",       "w") as f: f.write("".join(n + "\n" for n in added))
+          with open("updated_files.txt",     "w") as f: f.write("".join(n + "\n" for n in updated))
+          with open("placeholder_files.txt", "w") as f: f.write("".join(n + "\n" for n in placeholders))
 
           summary = os.environ.get("GITHUB_STEP_SUMMARY", "/dev/stdout")
           with open(summary, "a") as out:
