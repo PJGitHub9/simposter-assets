@@ -1,0 +1,1266 @@
+{
+  "version": 1,
+  "description": "Fonts Simposter can download. name = what presets/overlays use; file = path in this folder; style = named weight of a variable font (null for a static file).",
+  "fonts": [
+    {
+      "name": "Arimo-Regular",
+      "family": "Arimo",
+      "file": "Arimo.ttf",
+      "style": "Regular",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo",
+      "family": "Arimo",
+      "file": "Arimo.ttf",
+      "style": "Regular",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-Medium",
+      "family": "Arimo",
+      "file": "Arimo.ttf",
+      "style": "Medium",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-SemiBold",
+      "family": "Arimo",
+      "file": "Arimo.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-Bold",
+      "family": "Arimo",
+      "file": "Arimo.ttf",
+      "style": "Bold",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-Italic",
+      "family": "Arimo",
+      "file": "Arimo-Italic.ttf",
+      "style": "Italic",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-MediumItalic",
+      "family": "Arimo",
+      "file": "Arimo-Italic.ttf",
+      "style": "Medium Italic",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-SemiBoldItalic",
+      "family": "Arimo",
+      "file": "Arimo-Italic.ttf",
+      "style": "SemiBold Italic",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "Arimo-BoldItalic",
+      "family": "Arimo",
+      "file": "Arimo-Italic.ttf",
+      "style": "Bold Italic",
+      "license": "licenses/Arimo-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Thin",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Thin",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-ExtraLight",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Light",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Light",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Regular",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Regular",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Regular",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Medium",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Medium",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-SemiBold",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "SemiBold",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Bold",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans.ttf",
+      "style": "Bold",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-ThinItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "Thin Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-ExtraLightItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "ExtraLight Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-LightItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "Light Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-Italic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-MediumItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "Medium Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-SemiBoldItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "SemiBold Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "IBMPlexSans-BoldItalic",
+      "family": "IBM Plex Sans",
+      "file": "IBMPlexSans-Italic.ttf",
+      "style": "Bold Italic",
+      "license": "licenses/IBMPlexSans-OFL.txt"
+    },
+    {
+      "name": "Roboto-Thin",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Thin",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-ExtraLight",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-Light",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Light",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-Regular",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Regular",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Regular",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-Medium",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Medium",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-SemiBold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-Bold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Bold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-ExtraBold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-Black",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Black",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedThin",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Thin",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedExtraLight",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed ExtraLight",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedLight",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Light",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedRegular",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Regular",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedMedium",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Medium",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedSemiBold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed SemiBold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedBold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Bold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedExtraBold",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed ExtraBold",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Roboto-CondensedBlack",
+      "family": "Roboto",
+      "file": "Roboto.ttf",
+      "style": "Condensed Black",
+      "license": "licenses/Roboto-OFL.txt"
+    },
+    {
+      "name": "Inter-Thin",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Thin",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-ExtraLight",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-Light",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Light",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-Regular",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Regular",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Regular",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-Medium",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Medium",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-SemiBold",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-Bold",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Bold",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-ExtraBold",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Inter-Black",
+      "family": "Inter",
+      "file": "Inter.ttf",
+      "style": "Black",
+      "license": "licenses/Inter-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Thin",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Thin",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-ExtraLight",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Light",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Light",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Regular",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Regular",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Regular",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Medium",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Medium",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-SemiBold",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Bold",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Bold",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-ExtraBold",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Montserrat-Black",
+      "family": "Montserrat",
+      "file": "Montserrat.ttf",
+      "style": "Black",
+      "license": "licenses/Montserrat-OFL.txt"
+    },
+    {
+      "name": "Lato-Regular",
+      "family": "Lato",
+      "file": "Lato-Regular.ttf",
+      "style": null,
+      "license": "licenses/Lato-OFL.txt"
+    },
+    {
+      "name": "Lato",
+      "family": "Lato",
+      "file": "Lato-Regular.ttf",
+      "style": null,
+      "license": "licenses/Lato-OFL.txt"
+    },
+    {
+      "name": "Lato-Bold",
+      "family": "Lato",
+      "file": "Lato-Bold.ttf",
+      "style": null,
+      "license": "licenses/Lato-OFL.txt"
+    },
+    {
+      "name": "Comfortaa-Light",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "Light",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "Comfortaa-Regular",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "Regular",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "Comfortaa",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "Regular",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "Comfortaa-Medium",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "Medium",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "Comfortaa-SemiBold",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "Comfortaa-Bold",
+      "family": "Comfortaa",
+      "file": "Comfortaa.ttf",
+      "style": "Bold",
+      "license": "licenses/Comfortaa-OFL.txt"
+    },
+    {
+      "name": "BebasNeue-Regular",
+      "family": "Bebas Neue",
+      "file": "BebasNeue-Regular.ttf",
+      "style": null,
+      "license": "licenses/BebasNeue-OFL.txt"
+    },
+    {
+      "name": "BebasNeue",
+      "family": "Bebas Neue",
+      "file": "BebasNeue-Regular.ttf",
+      "style": null,
+      "license": "licenses/BebasNeue-OFL.txt"
+    },
+    {
+      "name": "AbrilFatface-Regular",
+      "family": "Abril Fatface",
+      "file": "AbrilFatface-Regular.ttf",
+      "style": null,
+      "license": "licenses/AbrilFatface-OFL.txt"
+    },
+    {
+      "name": "AbrilFatface",
+      "family": "Abril Fatface",
+      "file": "AbrilFatface-Regular.ttf",
+      "style": null,
+      "license": "licenses/AbrilFatface-OFL.txt"
+    },
+    {
+      "name": "Anton-Regular",
+      "family": "Anton",
+      "file": "Anton-Regular.ttf",
+      "style": null,
+      "license": "licenses/Anton-OFL.txt"
+    },
+    {
+      "name": "Anton",
+      "family": "Anton",
+      "file": "Anton-Regular.ttf",
+      "style": null,
+      "license": "licenses/Anton-OFL.txt"
+    },
+    {
+      "name": "ArchivoBlack-Regular",
+      "family": "Archivo Black",
+      "file": "ArchivoBlack-Regular.ttf",
+      "style": null,
+      "license": "licenses/ArchivoBlack-OFL.txt"
+    },
+    {
+      "name": "ArchivoBlack",
+      "family": "Archivo Black",
+      "file": "ArchivoBlack-Regular.ttf",
+      "style": null,
+      "license": "licenses/ArchivoBlack-OFL.txt"
+    },
+    {
+      "name": "Cinzel-Regular",
+      "family": "Cinzel",
+      "file": "Cinzel.ttf",
+      "style": "Regular",
+      "license": "licenses/Cinzel-OFL.txt"
+    },
+    {
+      "name": "Cinzel",
+      "family": "Cinzel",
+      "file": "Cinzel.ttf",
+      "style": "Regular",
+      "license": "licenses/Cinzel-OFL.txt"
+    },
+    {
+      "name": "Cinzel-Bold",
+      "family": "Cinzel",
+      "file": "Cinzel.ttf",
+      "style": "Bold",
+      "license": "licenses/Cinzel-OFL.txt"
+    },
+    {
+      "name": "Cinzel-Black",
+      "family": "Cinzel",
+      "file": "Cinzel.ttf",
+      "style": "Black",
+      "license": "licenses/Cinzel-OFL.txt"
+    },
+    {
+      "name": "DMSerifDisplay-Italic",
+      "family": "DM Serif Display",
+      "file": "DMSerifDisplay-Italic.ttf",
+      "style": null,
+      "license": "licenses/DMSerifDisplay-OFL.txt"
+    },
+    {
+      "name": "DMSerifDisplay-Regular",
+      "family": "DM Serif Display",
+      "file": "DMSerifDisplay-Regular.ttf",
+      "style": null,
+      "license": "licenses/DMSerifDisplay-OFL.txt"
+    },
+    {
+      "name": "DMSerifDisplay",
+      "family": "DM Serif Display",
+      "file": "DMSerifDisplay-Regular.ttf",
+      "style": null,
+      "license": "licenses/DMSerifDisplay-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-ThinItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "Thin Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-ExtraLightItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "ExtraLight Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-LightItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "Light Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Italic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-MediumItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "Medium Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-SemiBoldItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "SemiBold Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-BoldItalic",
+      "family": "Josefin Sans",
+      "file": "JosefinSans-Italic.ttf",
+      "style": "Bold Italic",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Thin",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Thin",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-ExtraLight",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Light",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Light",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Regular",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Regular",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Regular",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Medium",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Medium",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-SemiBold",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "SemiBold",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "JosefinSans-Bold",
+      "family": "Josefin Sans",
+      "file": "JosefinSans.ttf",
+      "style": "Bold",
+      "license": "licenses/JosefinSans-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Thin",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Thin",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-ExtraLight",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Light",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Light",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Regular",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Regular",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Regular",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Medium",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Medium",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-SemiBold",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "SemiBold",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Bold",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Bold",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-ExtraBold",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "LeagueSpartan-Black",
+      "family": "League Spartan",
+      "file": "LeagueSpartan.ttf",
+      "style": "Black",
+      "license": "licenses/LeagueSpartan-OFL.txt"
+    },
+    {
+      "name": "Lobster-Regular",
+      "family": "Lobster",
+      "file": "Lobster-Regular.ttf",
+      "style": null,
+      "license": "licenses/Lobster-OFL.txt"
+    },
+    {
+      "name": "Lobster",
+      "family": "Lobster",
+      "file": "Lobster-Regular.ttf",
+      "style": null,
+      "license": "licenses/Lobster-OFL.txt"
+    },
+    {
+      "name": "Orbitron-Regular",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "Regular",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "Regular",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron-Medium",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "Medium",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron-SemiBold",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron-Bold",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "Bold",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron-ExtraBold",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Orbitron-Black",
+      "family": "Orbitron",
+      "file": "Orbitron.ttf",
+      "style": "Black",
+      "license": "licenses/Orbitron-OFL.txt"
+    },
+    {
+      "name": "Oswald-ExtraLight",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald-Light",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "Light",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald-Regular",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "Regular",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "Regular",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald-Medium",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "Medium",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald-SemiBold",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "Oswald-Bold",
+      "family": "Oswald",
+      "file": "Oswald.ttf",
+      "style": "Bold",
+      "license": "licenses/Oswald-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-Italic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-MediumItalic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "Medium Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-SemiBoldItalic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "SemiBold Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-BoldItalic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "Bold Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-ExtraBoldItalic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "ExtraBold Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-BlackItalic",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay-Italic.ttf",
+      "style": "Black Italic",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-Regular",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "Regular",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "Regular",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-Medium",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "Medium",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-SemiBold",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "SemiBold",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-Bold",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "Bold",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-ExtraBold",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "PlayfairDisplay-Black",
+      "family": "Playfair Display",
+      "file": "PlayfairDisplay.ttf",
+      "style": "Black",
+      "license": "licenses/PlayfairDisplay-OFL.txt"
+    },
+    {
+      "name": "Poppins-Black",
+      "family": "Poppins",
+      "file": "Poppins-Black.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins-Bold",
+      "family": "Poppins",
+      "file": "Poppins-Bold.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins-ExtraBold",
+      "family": "Poppins",
+      "file": "Poppins-ExtraBold.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins-Medium",
+      "family": "Poppins",
+      "file": "Poppins-Medium.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins-Regular",
+      "family": "Poppins",
+      "file": "Poppins-Regular.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins",
+      "family": "Poppins",
+      "file": "Poppins-Regular.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Poppins-SemiBold",
+      "family": "Poppins",
+      "file": "Poppins-SemiBold.ttf",
+      "style": null,
+      "license": "licenses/Poppins-OFL.txt"
+    },
+    {
+      "name": "Raleway-ThinItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Thin Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-ExtraLightItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "ExtraLight Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-LightItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Light Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Italic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-MediumItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Medium Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-SemiBoldItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "SemiBold Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-BoldItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Bold Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-ExtraBoldItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "ExtraBold Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-BlackItalic",
+      "family": "Raleway",
+      "file": "Raleway-Italic.ttf",
+      "style": "Black Italic",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Thin",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Thin",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-ExtraLight",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "ExtraLight",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Light",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Light",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Regular",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Regular",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Regular",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Medium",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Medium",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-SemiBold",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Bold",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Bold",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-ExtraBold",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "ExtraBold",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Raleway-Black",
+      "family": "Raleway",
+      "file": "Raleway.ttf",
+      "style": "Black",
+      "license": "licenses/Raleway-OFL.txt"
+    },
+    {
+      "name": "Righteous-Regular",
+      "family": "Righteous",
+      "file": "Righteous-Regular.ttf",
+      "style": null,
+      "license": "licenses/Righteous-OFL.txt"
+    },
+    {
+      "name": "Righteous",
+      "family": "Righteous",
+      "file": "Righteous-Regular.ttf",
+      "style": null,
+      "license": "licenses/Righteous-OFL.txt"
+    },
+    {
+      "name": "SpaceGrotesk-Light",
+      "family": "Space Grotesk",
+      "file": "SpaceGrotesk.ttf",
+      "style": "Light",
+      "license": "licenses/SpaceGrotesk-OFL.txt"
+    },
+    {
+      "name": "SpaceGrotesk-Regular",
+      "family": "Space Grotesk",
+      "file": "SpaceGrotesk.ttf",
+      "style": "Regular",
+      "license": "licenses/SpaceGrotesk-OFL.txt"
+    },
+    {
+      "name": "SpaceGrotesk",
+      "family": "Space Grotesk",
+      "file": "SpaceGrotesk.ttf",
+      "style": "Regular",
+      "license": "licenses/SpaceGrotesk-OFL.txt"
+    },
+    {
+      "name": "SpaceGrotesk-Medium",
+      "family": "Space Grotesk",
+      "file": "SpaceGrotesk.ttf",
+      "style": "Medium",
+      "license": "licenses/SpaceGrotesk-OFL.txt"
+    },
+    {
+      "name": "SpaceGrotesk-Bold",
+      "family": "Space Grotesk",
+      "file": "SpaceGrotesk.ttf",
+      "style": "Bold",
+      "license": "licenses/SpaceGrotesk-OFL.txt"
+    },
+    {
+      "name": "Teko-Light",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "Light",
+      "license": "licenses/Teko-OFL.txt"
+    },
+    {
+      "name": "Teko-Regular",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "Regular",
+      "license": "licenses/Teko-OFL.txt"
+    },
+    {
+      "name": "Teko",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "Regular",
+      "license": "licenses/Teko-OFL.txt"
+    },
+    {
+      "name": "Teko-Medium",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "Medium",
+      "license": "licenses/Teko-OFL.txt"
+    },
+    {
+      "name": "Teko-SemiBold",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "SemiBold",
+      "license": "licenses/Teko-OFL.txt"
+    },
+    {
+      "name": "Teko-Bold",
+      "family": "Teko",
+      "file": "Teko.ttf",
+      "style": "Bold",
+      "license": "licenses/Teko-OFL.txt"
+    }
+  ]
+}
