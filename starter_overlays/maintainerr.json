@@ -3,6 +3,7 @@
   "overlays": [
     {
       "id": "starter-maintainerr-leaving-soon",
+      "preview": "previews/overlays/starter-maintainerr-leaving-soon.jpg",
       "name": "Maintainerr - Leaving Soon",
       "description": "A red border and \"Leaving <day>\" text on titles a Maintainerr collection will remove. To be used with a Maintainerr instance (Settings → Ratings & Lists).",
       "notes": "To be used with Maintainerr instances: the layers only show on titles in a Maintainerr collection (Settings → Ratings & Lists → Maintainerr). Turn off Maintainerr's own overlays. Border image by netplexflix: https://github.com/netplexflix/Overlays (downloaded from that repo when added).",

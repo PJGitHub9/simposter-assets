@@ -3,6 +3,7 @@
  "overlays": [
   {
    "id": "starter-jmxd-media-info",
+   "preview": "previews/overlays/starter-jmxd-media-info.jpg",
    "name": "MediaInfo - jmxd",
    "description": "Resolution, HDR/Dolby Vision, audio codec and edition badges. Needs TRaSH-style file names.",
    "notes": "Made by jmxd: https://github.com/jmxd/Kometa (support: https://buymeacoffee.com/jmxd). Images are downloaded from that repo when added.",
@@ -2616,6 +2617,7 @@
   },
   {
    "id": "starter-jmxd-audience-rating",
+   "preview": "previews/overlays/starter-jmxd-audience-rating.jpg",
    "name": "Audience Rating - jmxd",
    "description": "Audience rating badge (green/yellow/red by score). Uses your media server's audience rating, or MDBList (Settings → Ratings & Lists).",
    "notes": "Made by jmxd: https://github.com/jmxd/Kometa (support: https://buymeacoffee.com/jmxd). Images are downloaded from that repo when added.",

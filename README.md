@@ -13,6 +13,18 @@ Thanks to [lynxstrike](https://github.com/lynxstrike) for sourcing the icons. We
 
 To add a font: put the `.ttf` in `fonts/`, its license in `fonts/licenses/`, and an entry per name in `fonts.json`. Only add fonts whose license allows redistribution (OFL or Apache 2.0); commercial fonts such as Arial or Helvetica can't go here.
 
+## Default presets
+
+`presets/defaults.json` holds the starter presets Simposter imports during first-run setup and from **Template Manager → Import Simposter defaults**. Simposter reads it at most every 10 minutes (the last good copy is kept on the user's server, and Simposter's own bundled presets are used when it can't be reached), so a new or improved default only needs a push here.
+
+- Shape: `{"version": 1, "fonts": [...], "templates": {"uniformlogo": {"presets": [...]}, "kometa": {"presets": [...]}}}`.
+- Each preset has a `name` (its id is made from the name, or set `id`), `options`, and optionally `season_options` (only the settings that differ from `options`).
+- Optional `min_version` (e.g. `"v1.8.40"`) on a preset that uses an option older Simposter versions don't have. Older installs keep their bundled preset of the same name instead, or skip it.
+- `fonts`: extra font names to download when the presets are imported (the fonts in `fonts/` are downloaded anyway).
+- Importing again overwrites presets with the same name, so users get an updated default by importing again. A preset the user renamed or saved under a new name isn't touched.
+
+Easiest way to make or change one: build it in Simposter's editor, save it, then **Template Manager → Export** and copy its `options`/`season_options` into this file.
+
 ## Starter overlays
 
 `starter_overlays/` holds the ready-made overlays shown under **Overlays → Starter overlays** in Simposter. Simposter reads this folder when that window opens (at most every 10 minutes), so a new or updated starter only needs a push here, not a Simposter release.
