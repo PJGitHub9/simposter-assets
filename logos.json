@@ -4141,8 +4141,8 @@
   },
   {
     "name": "Fully Formed Entertainment.png",
-    "url": null,
-    "date_added": "2026-04-06",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Fully Formed Entertainment.png",
+    "date_added": "2026-11-16",
     "tmdb_production_company_id": 134756
   },
   {
@@ -18836,7 +18836,7 @@
   {
     "name": "comedyctrl+1.png",
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/comedyctrl+1.png",
-    "date_added": "2026-03-12",
+    "date_added": "2026-11-16",
     "tmdb_production_company_id": null
   },
   {
@@ -49922,5 +49922,17 @@
     "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/RTL+.png",
     "date_added": "2026-10-05",
     "tmdb_production_company_id": 24234
+  },
+  {
+    "name": "NeoReel.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/NeoReel.png",
+    "date_added": "2026-11-16",
+    "tmdb_production_company_id": 24097
+  },
+  {
+    "name": "Punch Palace Productions.png",
+    "url": "https://raw.githubusercontent.com/PJGitHub9/simposter-assets/main/logos/Punch Palace Productions.png",
+    "date_added": "2026-11-16",
+    "tmdb_production_company_id": 218150
   }
 ]
